@@ -1,0 +1,221 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:\\Users\\payto\\Documents\\Other\\Curriculum Vitae\\svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: PAYTON JONES
+jobtitle: 
+address: 
+web: 
+
+email: payton_jones@g.harvard.edu
+phone: "425 367-2939"
+
+updated: no
+
+keywords: curriculum vitae, Rmarkdown, CV
+
+fontawesome: no
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: black
+urlcolor: black
+---
+
+# EDUCATION
+
+__Clinical Psychology, PhD__ \hfill 2016-Present | Cambridge, MA  
+Harvard University
+
+* Richard J. McNally Laboratory
+
+__Psychology, BS__ \hfill 2011-2016 | Provo, UT  
+Brigham Young University
+
+* GPA: 4.0, Summa Cum Laude
+* GRE: Verbal 169 (99%), Quantitative 168 (95%), Writing 5.5 (98%)
+* Psi Chi Presidency
+* Portuguese Language Certificate, Mastery Level
+
+# PEER-REVIEWED JOURNAL ARTICLES
+
+__Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (Accepted). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling._
+
+__Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (Submitted for publication). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders._ 
+
+__Jones, P. J.__, Heeren, A., McNally, R. J. (Submitted for publication). Beyond symptoms: Extending the network theory of psychopathology. _Psychotherapy and Psychosomatics._ 
+
+__Jones, P. J.__ (2015). Applying Counseling Theory to Pedagogy. _Career Convergence Journal._ 
+
+__Jones, P. J.__ (2015). Addiction: An Analysis of Problematic Pornography Usage. _Chiasm Journal of Neuroscience._
+
+Lefevor, G. T., Jensen, D. R., __Jones, P. J.__, Janis, R. A., Hsieh, C. H. (Submitted for publication). The science and practice of positive living: Evaluating the efficacy of an undergraduate positive psychology course. _Teaching of Psychology._
+
+Lefevor, G. T., __Jones, P. J.__, Williams, J.S., Park, S.Y., & Acevedo, M. (In preparation). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women.
+
+# PEER-REVIEWED STATISTICAL SOFTWARE
+
+__Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.0.0._ https://CRAN.R-project.org/package=networktools
+
+# ACADEMIC PRESENTATIONS
+
+__Jones, P. J.__, Heeren, A., McNally, R. J. (2017). Casting a wider net: Towards a complete network model of psychopathology. Presentation at the Harvard University Mind, Brain, and Behavior Showcase. 
+
+__Jones, P. J.__, Lefevor, G. T. (2016). _Does social support moderate the effect of external stressors on college student anxiety?_ Presentation at the Utah Psychological Association Annual Meeting, Salt Lake City, UT.
+
+__Jones, P. J.__ & Lefevor, G. T. (2016). _Anxiety in college students: Implications from the CCMH database._ Presentation at the Mary Lou Fulton Mentored Student Research Conference, Brigham Young University, Provo, UT. 
+
+__Jones, P. J.__ (2015). _Casualidad Planeado: Desarollo de Carreras en un Mundo Transitório._ Presentation at the Faculty Conference at Universidad Peruana Simón Bolivar in Lima, Perú. 
+
+__Jones, P. J.__ & Livingstone, J. (2015). _Psychological Testing of Social Skills._ Presentation at Mary Lou Fulton Mentored Student Research Conference, Brigham Young University, Provo, UT. 
+
+__Jones, P. J.__ (2015). _Desarollo de Carreras en un Mercado Global (Career Development in a Global Market)_. Presentation at the Brigham Young University Research Conference for the Peruvian Consulate, Provo, UT. 
+
+__Jones, P. J.__ (2015). _Career Developmental Resources in Brazilian Society (Recursos de Desenvolivmento de Carreira no Brasil)._ Presented at the Inquiry Conference, David M. Kennedy Center for International Studies, Provo, UT.
+
+# RESEARCH EXPERIENCE
+
+__Graduate Student__		\hfill September, 2016 - Present | Cambridge, MA  
+Harvard University, Dr. Richard McNally 
+
+* Research the network approach to psychopathology 
+* Analyze and visualize large datasets using sophisticated techniques in R
+* Collaborate with leading scholars to advance the field of clinical psychology
+
+__Research Assistant__		\hfill December. 2015- August, 2016 | Provo, UT  
+Counseling and Psychological Services, Dr. Tyler Lefevor
+
+* Published peer-reviewed articles and presented at conferences on the topics of positive psychology interventions, sexuality, and anxiety in college students
+* Wrote literature reviews and collaborated on multiple projects with peers
+* Performed statistical analyses in SPSS including hierarchical multiple regression and ANOVA
+
+__Research Assistant__	\hfill	January, 2015- August, 2016 | Provo, UT  
+Department of Psychology, Dr. Bruce Brown, Associate Chair
+
+* Analyzed statistical data using SAS, SPSS, R, and STATA
+* Performed a wide variety of statistical analyses including exploratory and confirmatory factor analysis, factor score plotting, multiple regression, and logistic regression
+* Utilized and evaluated statistical techniques for the prediction of ethical behavior
+
+__Research Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
+Department of Student Development, Alberto Puertas
+
+* Assisted in research concerning emerging career counseling models
+* Wrote new curriculum for a career development course focusing on narrative approaches to career decision
+* Taught university level career development courses, both supervised and unsupervised
+
+# CLINICAL & TEACHING EXPERIENCE
+
+__International School Psychology Intern__ \hfill	Apr. 2015- Aug., 2015 | Lima, Peru  
+Colegio Brigham Young School
+
+* Performed one-on-one interventions for students suffering from attention and learning disabilities
+* Provided training for parents and teachers to improve management of student behavior
+* Crossed cultural barriers by immersion in the Peruvian educational system and by communicating exclusively in the Spanish language
+
+__Career Counseling Paraprofessional__ \hfill	May, 2014- June, 2015 | Provo, UT  
+Brigham Young University Career and Counseling Center
+
+* Administered career counseling to more than 100 students, both supervised and unsupervised in a peer mentor role
+* Trained in humanistic and existential psychotherapy methods for career counseling
+
+__Teaching Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
+Brigham Young University, Department of Student Development
+
+* Taught university level career development courses
+* Provided personalized feedback for personality and career testing including Holland’s career types and the Campbell Interest and Skill Survey
+
+__Peer Mentor__	\hfill	April, 2014- September, 2014 | Provo, UT  
+Brigham Young University Freshman Mentoring
+
+* Gave personal counseling and assistance to 51 new university students in a peer mentor role
+* Provided leadership in student orientation and other large group activities
+
+__Youth Counselor__	\hfill	May, 2011- September, 2011 | Seattle, WA  
+Boy Scouts of America: ScoutReach Initiative
+
+* Supervised, mentored, and counseled about 80 troubled youth ages 6-10
+* Participated in outreach contacting and recruiting groups in low-income neighborhoods
+
+# VOLUNTEER & LEADERSHIP 
+
+__Psi Chi Presidency__	\hfill	September, 2015- Present | Provo, UT  
+Psi Chi International Honor Society 
+
+* Managed logistics for an organization of more than 75 members
+* Planned and conducted events to promote academic and career achievement in the psychology department
+vCollaborated with university administration and faculty to provide extracurricular opportunities for students
+
+__Student Outreach Council__ \hfill	September, 2015- Present | Provo, UT  
+Brigham Young University Counseling and Psychological Services
+
+* Organized events and activities to promote positive mental health practices among university students
+* Educated peers about mental health stigma and how to seek proper treatment for psychological dysfunction 
+* Promoted the correct treatment of mental disorders through social media
+
+__Research Panel Chair__ \hfill	September, 2015- Present | Provo, UT  
+Inquiry Conference, David M. Kennedy Center for International Studies
+
+* Spearheaded organization of the research panel “Overcoming Challenges in Global Development”
+* Facilitated discussion of research presentations by an academic panel
+* Organized coordination of technical and visual aspects of presentations
+
+__Vocational Rehabilitation Technician__ \hfill	Jan., 2015- June, 2015 | Provo, UT  
+Utah State Hospital, Forensic Unit
+
+* Trained 12 mental health patients in vocational skills necessary for rehabilitation
+* Provided educational support for patients working toward the completion of general education degree and technical degree requirements
+* Aided staff in supervision and monitoring of suicidal and dangerous behavior
+
+__Full-time Service Volunteer__	\hfill Oct., 2011- Oct., 2013 | Vitória, Brazil  
+The Church of Jesus Christ of Latter-Day Saints
+
+* Managed 26 other volunteers during a full-time 2-year service mission
+* Immersed in foreign culture, including more than 11 months with no contact with other Americans
+* Assisted individuals in addiction recovery and resolution of familial problems
+
+# AWARDS & HONORS
+
+__Karen Stone Fellowship__ \hfill	September 2016    
+Harvard University
+
+__Valedictorian__	\hfill	April 2016  
+Department of Psychology
+
+__Mastery Level Certification: Portuguese__ \hfill	April 2015  
+American Council for the Teaching of Foreign Languages
+
+__Phi Cappa Phi National Honor Nomination__	 \hfill February 2015  
+Phi Cappa Phi National Honor Society
+
+__Golden Key International Honour Nomination__	\hfill December 2014  
+Golden Key International Honour Society
+
+__National Merit Scholar Award__	\hfill September 2011  
+National Merit Scholarship Corporation
+
+__BECU National Scholarship__ 	\hfill October 2011  
+Boeing Employees Credit Union
+
+__Heritage Scholarship__	\hfill August 2011  
+Brigham Young University
+
+# LANGUAGE & INTERNATIONAL EXPERIENCE
+
+__Brazilian Portuguese__	\hfill July 2011- Present  
+Bilingual Proficiency
+
+* Lived in Vitória, Espírito Santo, Brazil from December 2011 to October 2013. 
+* Lived without any English contact from November 2012 to October 2013
+* Mastery Level Certification from the American Council for the Teaching of Foreign Languages
+
+__Spanish__		\hfill April 2015- Present  
+Professional Proficiency
+
+* Lived in Lima, Peru from April 2015 to August 2015
+* Published 1 article in Spanish in a Venezuelan academic journal
+* Presented an academic presentation at a university conference in Lima, Peru
+* Presented an academic presentation to the Peruvian consulate of Utah 
