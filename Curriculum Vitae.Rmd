@@ -12,7 +12,7 @@ address:
 web: 
 
 email: payton_jones@g.harvard.edu
-phone: "425 367-2939"
+phone: "425-367-2939"
 
 updated: no
 
@@ -29,16 +29,17 @@ urlcolor: black
 # EDUCATION
 
 __Clinical Psychology, PhD__ \hfill 2016-Present | Cambridge, MA  
-Harvard University
+Harvard University  
 
 * Richard J. McNally Laboratory
+* Karen Stone Scholar
 
 __Psychology, BS__ \hfill 2011-2016 | Provo, UT  
 Brigham Young University
 
 * GPA: 4.0, Summa Cum Laude
-* GRE: Verbal 169 (99%), Quantitative 168 (95%), Writing 5.5 (98%)
-* Psi Chi Presidency
+* GRE: Verbal 169 (99%), Quantitative 168 (95%), Writing 5.5 (98%
+* Psi Chi Presidenc
 * Portuguese Language Certificate, Mastery Level
 
 # PEER-REVIEWED JOURNAL ARTICLES
@@ -49,13 +50,13 @@ __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (Submitted
 
 __Jones, P. J.__, Heeren, A., McNally, R. J. (Submitted for publication). Beyond symptoms: Extending the network theory of psychopathology. _Psychotherapy and Psychosomatics._ 
 
+Lefevor, G. T., Jensen, D. R., __Jones, P. J.__, Janis, R. A., Hsieh, C. H. (Submitted for publication). The science and practice of positive living: Evaluating the efficacy of an undergraduate positive psychology course. _Teaching of Psychology._
+
 __Jones, P. J.__ (2015). Applying Counseling Theory to Pedagogy. _Career Convergence Journal._ 
 
 __Jones, P. J.__ (2015). Addiction: An Analysis of Problematic Pornography Usage. _Chiasm Journal of Neuroscience._
 
-Lefevor, G. T., Jensen, D. R., __Jones, P. J.__, Janis, R. A., Hsieh, C. H. (Submitted for publication). The science and practice of positive living: Evaluating the efficacy of an undergraduate positive psychology course. _Teaching of Psychology._
-
-Lefevor, G. T., __Jones, P. J.__, Williams, J.S., Park, S.Y., & Acevedo, M. (In preparation). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women.
+<!-- Lefevor, G. T., __Jones, P. J.__, Williams, J.S., Park, S.Y., & Acevedo, M. (In preparation). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women. -->
 
 # PEER-REVIEWED STATISTICAL SOFTWARE
 
@@ -63,7 +64,7 @@ __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important 
 
 # ACADEMIC PRESENTATIONS
 
-__Jones, P. J.__, Heeren, A., McNally, R. J. (2017). Casting a wider net: Towards a complete network model of psychopathology. Presentation at the Harvard University Mind, Brain, and Behavior Showcase. 
+__Jones, P. J.__, Heeren, A., McNally, R. J. (2017). _Casting a wider net: Towards a complete network model of psychopathology_. Presentation at the Harvard University Mind, Brain, and Behavior Showcase. 
 
 __Jones, P. J.__, Lefevor, G. T. (2016). _Does social support moderate the effect of external stressors on college student anxiety?_ Presentation at the Utah Psychological Association Annual Meeting, Salt Lake City, UT.
 
