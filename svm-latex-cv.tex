@@ -202,7 +202,7 @@ $endif$
 
 \hypersetup{unicode=true,
 $if(title-meta)$
-            pdftitle={$if(author-meta)$$author-meta$: $endif$ $title-meta$ (Curriculum Vitae)},
+            pdftitle={$title-meta$ (Curriculum Vitae)}, % this determines the PDF document title
 $endif$
 $if(author-meta)$
             pdfauthor={$author-meta$},

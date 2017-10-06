@@ -6,7 +6,7 @@ output:
 geometry: margin=1in
 
 title: "Curriculum Vitae"
-author: PAYTON JONES
+author: PAYTON J. JONES
 jobtitle: 
 address: 
 web: 
@@ -44,25 +44,25 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-__Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology._ 
+__Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (In press). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders._ 
 
-__Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (Accepted). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling._
+__Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (In press). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling._
 
-__Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (In review). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders._ 
+__Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_:1305 
 
-Heeren, A., __Jones, P.J.__, & McNally, R.J. (In review). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders_
+Heeren, A., __Jones, P.J.__, & McNally, R.J. (In review). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders._
 
 <!-- Lefevor, G. T., Jensen, D. R., __Jones, P. J.__, Janis, R. A., Hsieh, C. H. (Submitted for publication). The science and practice of positive living: Evaluating the efficacy of an undergraduate positive psychology course. _Teaching of Psychology._ -->
 
 __Jones, P. J.__ (2015). Applying Counseling Theory to Pedagogy. _Career Convergence Journal._ 
 
-__Jones, P. J.__ (2015). Addiction: An Analysis of Problematic Pornography Usage. _Chiasm Journal of Neuroscience._
+__Jones, P. J.__ (2015). Addiction: An Analysis of Problematic Pornography Usage. _Chiasm Undergraduate Journal of Neuroscience._
 
 <!-- Lefevor, G. T., __Jones, P. J.__, Williams, J.S., Park, S.Y., & Acevedo, M. (In preparation). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women. -->
 
-# PEER-REVIEWED STATISTICAL SOFTWARE
+# STATISTICAL SOFTWARE
 
-__Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.0.0._ https://CRAN.R-project.org/package=networktools
+__Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.1.0._ https://CRAN.R-project.org/package=networktools
 
 # ACADEMIC PRESENTATIONS
 
