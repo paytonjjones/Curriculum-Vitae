@@ -16,7 +16,7 @@ phone: "425-367-2939"
 
 updated: no
 
-keywords: curriculum vitae, Rmarkdown, CV, psychology, machine learning, data science, network analysis
+keywords: curriculum vitae, Rmarkdown, CV, resume, R, psychology, machine learning, data science, network analysis
 
 fontawesome: no
 fontfamily: mathpazo
@@ -45,29 +45,25 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-__Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology._
+10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_:1742
 
-Wang, S. B., __Jones, P. J.__, Dreier, M., Elliott, H., & Grilo, C. M. (2018). Core psychopathology of treatment-seeking patients with binge-eating disorder: A network analysis investigation. _Psychological Medicine._ 
+9\. Wang, S. B., __Jones, P. J.__, Dreier, M., Elliott, H., & Grilo, C. M. (2018). Core psychopathology of treatment-seeking patients with binge-eating disorder: A network analysis investigation. _Psychological Medicine._ 
 
-Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). Trigger warning: Empirical evidence ahead. _Journal of Behavior Therapy and Experimental Psychiatry. 61_:134-141
+8\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). Trigger warning: Empirical evidence ahead. _Journal of Behavior Therapy and Experimental Psychiatry. 61_:134-141
 
-__Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (2018). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling._
+7\. __Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (2018). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling. 21_:252-264
 
-Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_:75-82
+6\. Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_:75-82
 
-Levinson, C. A., ... __Jones, P. J.__, et al. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders_
+5\. Levinson, C. A., ... __Jones, P. J.__, et al. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders_
 
-Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders_
+4\. Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders_
 
-Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science_
+3\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science_
 
-__Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_:1-8 
+2\. __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_:1-8 
 
-__Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_:1305 
-
-<!-- __Jones, P. J.__ (2015). Applying Counseling Theory to Pedagogy. _Career Convergence Journal._  -->
-
-<!-- __Jones, P. J.__ (2015). Addiction: An analysis of problematic pornography usage. _Chiasm Undergraduate Journal of Neuroscience._ -->
+1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_:1305 
 
 # STATISTICAL SOFTWARE
 
@@ -75,7 +71,11 @@ __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important 
 
 <!-- van Borkulo, C., __Jones, P. J.__ (2017). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. https://github.com/paytonjjones/NetworkComparisonTest -->
 
+<!-- __Jones, P. J.__ (2018). networktree: Recursive partitioning (tree models) of psychometric networks. _R package version 1.0.0._ https://github.com/paytonjjones/networktree -->
+
 # JOURNAL ARTICLES UNDER REVIEW
+
+Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents. 
 
 __Jones, P. J.__, Ma, R., & McNally, R. J. (in review). Bridge centrality: A network approach to understanding comorbidity.
 
@@ -85,47 +85,59 @@ Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predi
 
 <!-- Lefevor, G. T., __Jones, P. J.__, Williams, J. S., Park, S. Y., & Acevedo, M. (in review). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women. -->
 
-<!-- __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (in preparation). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes.  -->
+ __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (in review). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. 
 
 # ACADEMIC PRESENTATIONS
 
-<!-- Summers, B. J., Aalbers, G, __Jones, P. J.__, McNally, R. J., Phillips, K. A., Wilhelm, S., (2018). A network perspective on body dysmorphic disorder and major depressive disorder. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC. -->
+10\. __Jones, P. J.__*, Elliott, H., & Schmidt, U. (2018). Anorexia core symptoms predict poor prognosis: A network analysis in a randomized-controlled trial. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
-__Jones, P. J.__, & McNally, R. J. (2018). _The trauma treadmill: A paradox of PTSD vulnerability_. Symposium at the Heterodox Psychology Conference, Orange, CA.  
+9\. __Jones, P. J.__, Simon, T., Zeleis, A., & Mair, P. (2018). Model-based recursive partitioning of network models: A statistical learning approach to network analysis. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
-Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). _Trigger warning: Empirical evidence ahead_. Symposium at the Heterodox Psychology Conference, Orange, CA.  
+8\. Summers, B. J., Aalbers, G, __Jones, P. J.__, McNally, R. J., Phillips, K. A., Wilhelm, S., (2018). A network perspective on body dysmorphic disorder and major depressive disorder. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
-__Jones, P. J.__, Ma, R., & McNally, R. J. (2018). _Bridge centrality: Identifying bridge symptoms in psychopathology networks_. Symposium at the Association for Psychological Science Conference, San Francisco, CA.  
+7\. __Jones, P. J.__, & McNally, R. J. (2018). _The trauma treadmill: A paradox of PTSD vulnerability_. Symposium at the Heterodox Psychology Conference, Orange, CA.  
 
-Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). _Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth_. Symposium at the Association for Psychological Science Conference, San Francisco, CA. 
+6\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). _Trigger warning: Empirical evidence ahead_. Symposium at the Heterodox Psychology Conference, Orange, CA.  
 
-__Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2017). _Bayesian networks: A directed-acyclic graph approach to comorbid OCD and depression_. Poster presentation at the Association for Behavioral and Cognitive Therapies, San Diego, CA. 
+5\. __Jones, P. J.__, Ma, R., & McNally, R. J. (2018). _Bridge centrality: Identifying bridge symptoms in psychopathology networks_. Symposium at the Association for Psychological Science Conference, San Francisco, CA.  
 
-__Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2017). _A network perspective on comorbid OCD and depression in adolescents_. Symposium at the Association for Psychological Science Conference, Boston, MA.
+4\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). _Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth_. Symposium at the Association for Psychological Science Conference, San Francisco, CA. 
 
-__Jones, P. J.__, Heeren, A., McNally, R. J. (2017). _Casting a wider net: Towards a complete network model of psychopathology_. Poster presentation at the Harvard University Mind, Brain, and Behavior Showcase. 
+3\. __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2017). _Bayesian networks: A directed-acyclic graph approach to comorbid OCD and depression_. Poster presentation at the Association for Behavioral and Cognitive Therapies, San Diego, CA. 
 
-__Jones, P. J.__, Lefevor, G. T. (2016). _Does social support moderate the effect of external stressors on college student anxiety?_ Poster presentation at the Utah Psychological Association Annual Meeting, Salt Lake City, UT.
+2\. __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2017). _A network perspective on comorbid OCD and depression in adolescents_. Symposium at the Association for Psychological Science Conference, Boston, MA.
 
-__Jones, P. J.__ & Lefevor, G. T. (2016). _Anxiety in college students: Implications from the CCMH database._ Poster presentation at the Mary Lou Fulton Mentored Student Research Conference, Brigham Young University, Provo, UT. 
+1\. __Jones, P. J.__, Heeren, A., McNally, R. J. (2017). _Casting a wider net: Towards a complete network model of psychopathology_. Poster presentation at the Harvard University Mind, Brain, and Behavior Showcase. 
 
-__Jones, P. J.__ (2015). _Casualidad Planeado: Desarollo de Carreras en un Mundo Transitorio._ Oral presentation at the Faculty Conference at Universidad Peruana Simon Bolivar in Lima, Peru. 
+<!-- __Jones, P. J.__, Lefevor, G. T. (2016). _Does social support moderate the effect of external stressors on college student anxiety?_ Poster presentation at the Utah Psychological Association Annual Meeting, Salt Lake City, UT. -->
 
-__Jones, P. J.__ & Livingstone, J. (2015). _Psychological Testing of Social Skills._ Poster presentation at Mary Lou Fulton Mentored Student Research Conference, Brigham Young University, Provo, UT. 
+<!-- __Jones, P. J.__ & Lefevor, G. T. (2016). _Anxiety in college students: Implications from the CCMH database._ Poster presentation at the Mary Lou Fulton Mentored Student Research Conference, Brigham Young University, Provo, UT. -->
 
-__Jones, P. J.__ (2015). _Desarollo de Carreras en un Mercado Global (Career Development in a Global Market)_. Oral presentation at the Brigham Young University Research Conference for the Peruvian Consulate, Provo, UT. 
+<!-- __Jones, P. J.__ (2015). _Casualidad Planeado: Desarollo de Carreras en un Mundo Transitorio._ Oral presentation at the Faculty Conference at Universidad Peruana Simon Bolivar in Lima, Peru. -->
 
-__Jones, P. J.__ (2015). _Career Developmental Resources in Brazilian Society (Recursos de Desenvolivmento de Carreira no Brasil)._ Symposium presentation at the Inquiry Conference, David M. Kennedy Center for International Studies, Provo, UT.
+<!-- __Jones, P. J.__ & Livingstone, J. (2015). _Psychological Testing of Social Skills._ Poster presentation at Mary Lou Fulton Research Conference, Brigham Young University, Provo, UT. -->
+
+<!-- __Jones, P. J.__ (2015). _Desarollo de Carreras en un Mercado Global (Career Development in a Global Market)_. Oral presentation at the Brigham Young University Research Conference for the Peruvian Consulate, Provo, UT. -->
+
+<!-- __Jones, P. J.__ (2015). _Career Developmental Resources in Brazilian Society (Recursos de Desenvolivmento de Carreira no Brasil)._ Symposium presentation at the Inquiry Conference, David M. Kennedy Center for International Studies, Provo, UT. -->
+
+_* = panel chair or organizer_
+
+# GRANT REVIEWER FOR:
+
+* NWO (Netherlands Organisation for Scientific Research)
 
 # JOURNAL REVIEWER FOR:
 
-* Archives of Suicide Research
+* Archives of Suicide Research <!-- 2 -->
+* Clinical Psychological Science
 * European Journal of Psychotraumatology
-* Frontiers in Psychology
+* Frontiers in Psychology <!-- 2 -->
 * JAMA Psychiatry
 * Journal of Affective Disorders
 * Journal of Child Psychology and Psychiatry <!-- 2 -->
 * Journal of Rational-Emotive & Cognitive Behavior Therapy
+* Psychological Medicine
 * Psychotherapy and Psychosomatics
 
 # RESEARCH EXPERIENCE
@@ -160,18 +172,26 @@ Brigham Young Univeristy, Alberto Puertas
 
 # CLINICAL & TEACHING EXPERIENCE
 
-__Exposure and Response Prevention Counselor__ \hfill June. 2017 - Present | Belmont, MA
-McLean Hospital OCD Institute
 
-* Provide evidence-based treatment for obsessive-compulsive and anxiety disorders
-* Administer psychological assessments and write comprehensive reports (SCID-5, MoCA)
+__Student Therapist__ \hfill Aug. 2018 - Present | Belmont, MA   
+Behavioral Health Partial Hospitalization Program, McLean Hospital
+
+* Give care to a diverse patient base with wide degrees & forms of psychopathology in an intensive setting
+* Perform diagnostic assessments and formulate case conceptualizations
+* Lead three DBT & CBT-based group therapy sessions per week
+
+__Exposure and Response Prevention Counselor__ \hfill June 2017 - Aug. 2018 | Belmont, MA
+Obsessive-Compulsive Disorder Institute, McLean Hospital
+
+* Provided evidence-based treatment for obsessive-compulsive and anxiety disorders
+* Administered psychological assessments and write comprehensive reports (SCID-5, MoCA)
 * Lead and co-lead group therapy sessions focused on worry management and emotion regulation
 
 __Psychology Concentration Advisor__ \hfill Apr. 2017 - Apr. 2018 | Cambridge, MA  
 Harvard University
 
-* Provide academic and career counseling to undergraduate psychology students
-* Work in collaboration with professional advisers and student advocacy groups
+* Provided academic and career counseling to undergraduate psychology students
+* Worked in collaboration with professional advisers and student advocacy groups
 
 __International School Psychology Intern__ \hfill	Apr. 2015- Aug., 2015 | Lima, Peru  
 Colegio Brigham Young School
@@ -289,6 +309,6 @@ __Spanish__		\hfill April 2015- Present
 Professional Proficiency
 
 * Lived in Lima, Peru from April 2015 to August 2015
-* Published 1 article in Spanish in a Venezuelan academic journal
+<!-- * Published 1 article in Spanish in a Venezuelan academic journal-->
 * Presented an academic presentation at a university conference in Lima, Peru
 * Presented an academic presentation to the Peruvian consulate of Utah 
