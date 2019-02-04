@@ -1,0 +1,70 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:\\Users\\payto\\Documents\\Other\\Curriculum Vitae\\svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Resume"
+author: PAYTON J. JONES, M.A.
+jobtitle: 
+address: 
+web: 
+
+email: payton_jones@g.harvard.edu
+phone: "425-367-2939"
+
+updated: no
+
+keywords: curriculum vitae, Rmarkdown, CV, resume, R, psychology, machine learning, data science, network analysis
+
+fontawesome: no
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: black
+---  
+
+\ 
+  
+My objective is to develop tools to improve health interventions and reduce the global burden of pathology using data-driven insights. I leverage expertise in regression-based machine learning and network science for healthcare applications.
+
+# SKILLS
+
+__Software__  
+-Proficient: R (lme4, ggplot2, dplyr, caret), Git    
+-Familiar with: SQL, Javascript, Python, Tensorflow  
+
+__Data Types__  
+-Proficient: Clinical/preclinical, epidemiological, time-series, survey, EMA  
+-Familiar with: Natural language, text mining, passive monitoring  
+
+# EDUCATION
+
+__Clinical Psychology, MA, PhD__ \hfill 2016-Present | Cambridge, MA  
+Harvard University | GPA: 3.85 | Focus: predictive analysis in anxiety disorders
+
+-Designed research paradigms in pre-clinical and clinical research  
+-Analyzed questionnaire, behavioral, and epidemiological data using R  
+-Developed and published open-source software (R packages _networktools_, _networktree_, _NetworkComparisonTest_)
+
+__Psychology, BS__ \hfill 2011-2016 | Provo, UT  
+Brigham Young University | GPA 4.0, Summa Cum Laude
+
+__Relevant Graduate Coursework__  
+-Machine Learning  
+-Bayesian Data Analysis  
+-Psychometric Methods using R (IRT, graphical models, network science)  
+
+# EXPERIENCE & PROJECTS
+
+__Structural Analysis of PTSD Symptoms (Dissertation)__  
+Analysis of epidemiological PTSD data (>500,000 data points) using psychometrics, Bayesian analyses, and LASSO.
+
+__Network Visualization__  
+Developed software for visualization of Gaussian Graphical Models using PCA and multidimensional scaling; tutorial published in _Frontiers in Psychology_
+
+__Predicting Clinical Outcomes in Eating Disorders__  
+Analyzed clinical data using network science methods to enhance predictions of outcomes in anorexia nervosa, published in _International Journal of Eating Disorders_ and _Psychological Medicine_
+

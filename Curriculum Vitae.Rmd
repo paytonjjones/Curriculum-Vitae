@@ -31,9 +31,8 @@ urlcolor: black
 __Clinical Psychology, PhD__ \hfill 2016-Present | Cambridge, MA  
 Harvard University  
 
-* Richard J. McNally Laboratory
 * National Science Foundation Graduate Research Fellow
-* Karen Stone Fellowship
+* Richard J. McNally Laboratory
 
 __Psychology, BS__ \hfill 2011-2016 | Provo, UT  
 Brigham Young University
@@ -67,11 +66,11 @@ Brigham Young University
 
 # STATISTICAL SOFTWARE
 
+__Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 1.0.0._ https://CRAN.R-project.org/package=networktree
+
 __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
 
 <!-- van Borkulo, C., __Jones, P. J.__ (2017). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. https://github.com/paytonjjones/NetworkComparisonTest -->
-
-<!-- __Jones, P. J.__ (2018). networktree: Recursive partitioning (tree models) of psychometric networks. _R package version 1.0.0._ https://github.com/paytonjjones/networktree -->
 
 # JOURNAL ARTICLES UNDER REVIEW
 
@@ -130,12 +129,13 @@ _* = panel chair or organizer_
 # JOURNAL REVIEWER FOR:
 
 * Archives of Suicide Research <!-- 2 -->
+* Behavior Research and Therapy
 * Clinical Psychological Science
 * European Journal of Psychotraumatology
 * Frontiers in Psychology <!-- 2 -->
 * JAMA Psychiatry
 * Journal of Affective Disorders
-* Journal of Child Psychology and Psychiatry <!-- 2 -->
+* Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Journal of Rational-Emotive & Cognitive Behavior Therapy
 * Psychological Medicine
 * Psychotherapy and Psychosomatics
