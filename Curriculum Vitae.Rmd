@@ -137,7 +137,7 @@ _* = panel chair or organizer_
 * Journal of Affective Disorders
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Journal of Rational-Emotive & Cognitive Behavior Therapy
-* Psychological Medicine
+* Psychological Medicine  <!-- 2 -->
 * Psychotherapy and Psychosomatics
 
 # RESEARCH EXPERIENCE
