@@ -133,6 +133,7 @@ _* = panel chair or organizer_
 * Clinical Psychological Science
 * European Journal of Psychotraumatology
 * Frontiers in Psychology <!-- 2 -->
+* International Journal of Methods in Psychiatric Research
 * JAMA Psychiatry
 * Journal of Affective Disorders
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
@@ -172,6 +173,12 @@ Brigham Young Univeristy, Alberto Puertas
 
 # CLINICAL & TEACHING EXPERIENCE
 
+<!-- __Student Mentor__ \hfill Oct. 2017 - Present | Cambridge, MA
+ZLR Valeon
+
+* Provide face-to-face mentorship to undergraduate students applying to graduate programs in psychology
+* Successfully tailor applications to top programs
+* Advise students in specific research areas -->
 
 __Student Therapist__ \hfill Aug. 2018 - Present | Belmont, MA   
 Behavioral Health Partial Hospitalization Program, McLean Hospital
