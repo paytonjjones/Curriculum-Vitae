@@ -65,9 +65,19 @@ Brigham Young University
 
 1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_:1305 
 
+# GRANTS & FELLOWSHIPS
+
+__National Science Foundation__, Graduate Research Fellowship, $138,000 \hfill 2018-2021 
+
+__Mind, Brain, & Behavior Initiative__, Graduate Student Award, $5,115 \hfill 2018
+
+__Harvard University__, Talley Award, $3,500, \hfill 2018
+
+__Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
+
 # STATISTICAL SOFTWARE
 
-__Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 1.0.0._ https://CRAN.R-project.org/package=networktree
+__Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 0.1.0._ https://CRAN.R-project.org/package=networktree
 
 __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
 
@@ -86,6 +96,16 @@ Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predi
  __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (in review). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. 
 
 # ACADEMIC PRESENTATIONS
+
+15\. __Jones, P. J.__*, Heeren, A., & McNally, R. J. (2019). Beyond symptoms: Why diagnostic criteria are not enough for network analysis. Symposium at the International Conference for Psychological Science, Paris, France. 
+
+14\. __Jones, P. J.__*, Ma, R., & McNally, R. J. (2019). Depression comorbidity: Applying bridge centrality in networks to understand overlap with other mental disorders. Symposium at the International Conference for Psychological Science, Paris, France. 
+
+13\. __Jones, P. J.__*, Simon, T., Zeleis, A., & Mair, P. (2019). Breaking the assumption of group homogeneity in networks: partitioning networks with machine learning. Symposium at the International Conference for Psychological Science, Paris, France. 
+
+12\. __Jones, P. J.__, McNally, R. J. (2019). Do the ever-expanding definitions of violence and trauma contribute to PTSD? Evidence for the trauma treadmill. Symposium at the International Conference for Psychological Science, Paris, France. 
+
+11\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2019). Trigger warning: Empirical evidence ahead. Symposium at the International Conference for Psychological Science, Paris, France. 
 
 10\. __Jones, P. J.__*, Elliott, H., & Schmidt, U. (2018). Anorexia core symptoms predict poor prognosis: A network analysis in a randomized-controlled trial. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
@@ -119,7 +139,7 @@ Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predi
 
 <!-- __Jones, P. J.__ (2015). _Career Developmental Resources in Brazilian Society (Recursos de Desenvolivmento de Carreira no Brasil)._ Symposium presentation at the Inquiry Conference, David M. Kennedy Center for International Studies, Provo, UT. -->
 
-_* = panel chair or organizer_
+_* = panel chair_
 
 # GRANT REVIEWER FOR:
 
