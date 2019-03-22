@@ -45,25 +45,27 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_:1742
+11\. __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (2019). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. _Clinical Psychological Science._
 
-9\. Wang, S. B., __Jones, P. J.__, Dreier, M., Elliott, H., & Grilo, C. M. (2018). Core psychopathology of treatment-seeking patients with binge-eating disorder: A network analysis investigation. _Psychological Medicine._ 
+10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_, 1742
 
-8\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). Trigger warning: Empirical evidence ahead. _Journal of Behavior Therapy and Experimental Psychiatry. 61_:134-141
+9\. Wang, S. B., __Jones, P. J.__, Dreier, M., Elliott, H., & Grilo, C. M. (2018). Core psychopathology of treatment-seeking patients with binge-eating disorder: A network analysis investigation. _Psychological Medicine._
 
-7\. __Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (2018). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling. 21_:252-264
+8\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). Trigger warning: Empirical evidence ahead. _Journal of Behavior Therapy and Experimental Psychiatry. 61_, 134-141
 
-6\. Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_:75-82
+7\. __Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (2018). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling. 21_, 252-264
 
-5\. Levinson, C. A., ... __Jones, P. J.__, et al. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders_
+6\. Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_, 75-82
 
-4\. Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders_
+5\. Levinson, C. A., ... __Jones, P. J.__, et al. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders  51_(7), 693-709
 
-3\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science_
+4\. Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders 51_(7), 668-679
 
-2\. __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_:1-8 
+3\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science 6_(6), 797-809
 
-1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_:1305 
+2\. __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_, 1-8 
+
+1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_, 1305 
 
 # GRANTS & FELLOWSHIPS
 
@@ -77,41 +79,33 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 # STATISTICAL SOFTWARE
 
-__Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 0.1.0._ https://CRAN.R-project.org/package=networktree
+2\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 0.2.0._ https://CRAN.R-project.org/package=networktree
 
-__Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
+1\. __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
 
 <!-- van Borkulo, C., __Jones, P. J.__ (2017). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. https://github.com/paytonjjones/NetworkComparisonTest -->
 
-# JOURNAL ARTICLES UNDER REVIEW
-
-<!-- Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents. -->
-
-__Jones, P. J.__, Ma, R., & McNally, R. J. (in review). Bridge centrality: A network approach to understanding comorbidity.
-
-Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis.
-
-<!-- Lefevor, G. T., __Jones, P. J.__, Williams, J. S., Park, S. Y., & Acevedo, M. (in review). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women. -->
-
- __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (in review). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. 
-
 # ACADEMIC PRESENTATIONS
 
-15\. __Jones, P. J.__*, Heeren, A., & McNally, R. J. (2019). Beyond symptoms: Why diagnostic criteria are not enough for network analysis. Symposium at the International Conference for Psychological Science, Paris, France. 
+_* = panel chair_
 
-14\. __Jones, P. J.__*, Ma, R., & McNally, R. J. (2019). Depression comorbidity: Applying bridge centrality in networks to understand overlap with other mental disorders. Symposium at the International Conference for Psychological Science, Paris, France. 
+16\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., & McNally, R. J. (2019). _The network structure of obsessive-compulsive symptoms in patients with eating disorders_. World Congress of Behavioural and Cognitive Therapies, Berlin, Germany.
 
-13\. __Jones, P. J.__*, Simon, T., Zeleis, A., & Mair, P. (2019). Breaking the assumption of group homogeneity in networks: partitioning networks with machine learning. Symposium at the International Conference for Psychological Science, Paris, France. 
+15\. __Jones, P. J.__*, Heeren, A., & McNally, R. J. (2019). _Beyond symptoms: Why diagnostic criteria are not enough for network analysis_. Symposium at the International Conference for Psychological Science, Paris, France. 
 
-12\. __Jones, P. J.__, McNally, R. J. (2019). Do the ever-expanding definitions of violence and trauma contribute to PTSD? Evidence for the trauma treadmill. Symposium at the International Conference for Psychological Science, Paris, France. 
+14\. __Jones, P. J.__*, Ma, R., & McNally, R. J. (2019). _Depression comorbidity: Applying bridge centrality in networks to understand overlap with other mental disorders_. Symposium at the International Conference for Psychological Science, Paris, France. 
 
-11\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2019). Trigger warning: Empirical evidence ahead. Symposium at the International Conference for Psychological Science, Paris, France. 
+13\. __Jones, P. J.__*, Simon, T., Zeleis, A., & Mair, P. (2019). _Breaking the assumption of group homogeneity in networks: partitioning networks with machine learning_. Symposium at the International Conference for Psychological Science, Paris, France. 
 
-10\. __Jones, P. J.__*, Elliott, H., & Schmidt, U. (2018). Anorexia core symptoms predict poor prognosis: A network analysis in a randomized-controlled trial. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
+12\. __Jones, P. J.__, McNally, R. J. (2019). _Do the ever-expanding definitions of violence and trauma contribute to PTSD? Evidence for the trauma treadmill_. Symposium at the International Conference for Psychological Science, Paris, France. 
+
+11\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2019). _Trigger warning: Empirical evidence ahead_. Symposium at the International Conference for Psychological Science, Paris, France. 
+
+10\. __Jones, P. J.__*, Elliott, H., & Schmidt, U. (2018). _Anorexia core symptoms predict poor prognosis: A network analysis in a randomized-controlled trial_. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
 9\. __Jones, P. J.__, Simon, T., Zeleis, A., & Mair, P. (2018). Model-based recursive partitioning of network models: A statistical learning approach to network analysis. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
-8\. Summers, B. J., Aalbers, G, __Jones, P. J.__, McNally, R. J., Phillips, K. A., Wilhelm, S., (2018). A network perspective on body dysmorphic disorder and major depressive disorder. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
+8\. Summers, B. J., Aalbers, G, __Jones, P. J.__, McNally, R. J., Phillips, K. A., Wilhelm, S., (2018). _A network perspective on body dysmorphic disorder and major depressive disorder_. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Washington, DC.
 
 7\. __Jones, P. J.__, & McNally, R. J. (2018). _The trauma treadmill: A paradox of PTSD vulnerability_. Symposium at the Heterodox Psychology Conference, Orange, CA.  
 
@@ -139,7 +133,15 @@ Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predi
 
 <!-- __Jones, P. J.__ (2015). _Career Developmental Resources in Brazilian Society (Recursos de Desenvolivmento de Carreira no Brasil)._ Symposium presentation at the Inquiry Conference, David M. Kennedy Center for International Studies, Provo, UT. -->
 
-_* = panel chair_
+# JOURNAL ARTICLES UNDER REVIEW
+
+3\. __Jones, P. J.__, Ma, R., & McNally, R. J. (in review). Bridge centrality: A network approach to understanding comorbidity.
+
+2\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis.
+
+1\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents.
+
+<!-- Lefevor, G. T., __Jones, P. J.__, Williams, J. S., Park, S. Y., & Acevedo, M. (in review). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women. -->
 
 # GRANT REVIEWER FOR:
 
@@ -147,19 +149,88 @@ _* = panel chair_
 
 # JOURNAL REVIEWER FOR:
 
-* Archives of Suicide Research <!-- 2 -->
-* Behavior Research and Therapy
-* Clinical Psychological Science
-* European Journal of Psychotraumatology
-* Frontiers in Psychology <!-- 2 -->
-* International Journal of Methods in Psychiatric Research
+* Psychological Review
 * JAMA Psychiatry
+* Clinical Psychological Science
+* Psychotherapy and Psychosomatics
+* Psychological Medicine  <!-- 2 -->
+* Behavior Research and Therapy
 * Journal of Affective Disorders
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
+* Frontiers in Psychology <!-- 2 -->
+* Archives of Suicide Research <!-- 2 -->
+* International Journal of Methods in Psychiatric Research
+* European Journal of Psychotraumatology
 * Journal of Rational-Emotive & Cognitive Behavior Therapy
-* Psychological Medicine  <!-- 2 -->
-* Psychotherapy and Psychosomatics
 * SAGE Open
+
+# CLINICAL EXPERIENCE
+
+__Student Therapist__ \hfill Aug. 2018 - Present | Belmont, MA   
+Behavioral Health Partial Hospitalization Program, McLean Hospital
+
+* Give care to a diverse patient base with wide degrees & forms of psychopathology in an intensive setting
+* Perform diagnostic assessments and formulate case conceptualizations
+* Lead three DBT & CBT-based group therapy sessions per week
+
+__Student Therapist__ \hfill June 2017 - Aug. 2018 | Belmont, MA  
+Obsessive-Compulsive Disorder Institute, McLean Hospital
+
+* Provided evidence-based treatment for obsessive-compulsive and anxiety disorders
+* Administered psychological assessments and write comprehensive reports (SCID-5, MoCA)
+* Lead and co-lead group therapy sessions focused on worry management and emotion regulation
+
+__Career Counseling Paraprofessional__ \hfill	May, 2014- June, 2015 | Provo, UT  
+Brigham Young University Career and Counseling Center
+
+* Administered career counseling to more than 100 students, both supervised and unsupervised in a peer mentor role
+* Trained in humanistic and existential psychotherapy methods for career counseling
+
+<!-- __Youth Counselor__	\hfill	May, 2011- September, 2011 | Seattle, WA  
+Boy Scouts of America: ScoutReach Initiative
+
+* Supervised, mentored, and counseled about 80 troubled youth ages 6-10
+* Participated in outreach contacting and recruiting groups in low-income neighborhoods -->
+
+# TEACHING & MENTORING EXPERIENCE
+
+<!-- __Student Mentor__ \hfill Oct. 2017 - Present | Cambridge, MA
+ZLR Valeon
+
+* Provide face-to-face mentorship to undergraduate students applying to graduate programs in psychology
+* Successfully tailor applications to top programs
+* Advise students in specific research areas -->
+
+__Teaching Fellow__ \hfill Jan. 2019 - Present | Cambridge, MA  
+Harvard University
+
+* Undergraduate course in Abnormal Psychology 
+* Taught 2 sections of ~25 students each
+
+__Psychology Concentration Advisor__ \hfill Apr. 2017 - Apr. 2018 | Cambridge, MA  
+Harvard University
+
+* Provided academic and career counseling to undergraduate psychology students
+* Worked in collaboration with professional advisers and student advocacy groups
+
+__International School Psychology Intern__ \hfill	Apr. 2015- Aug., 2015 | Lima, Peru  
+Colegio Brigham Young School
+
+* Performed one-on-one interventions for students suffering from attention and learning disabilities
+* Provided training for parents and teachers to improve management of student behavior
+* Crossed cultural barriers by immersion in the Peruvian educational system and by communicating exclusively in the Spanish language
+
+__Teaching Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
+Brigham Young University, Department of Student Development
+
+* Taught university level career development courses
+* Provided personalized feedback for personality and career testing including Holland career types and the Campbell Interest and Skill Survey
+
+__Peer Mentor__	\hfill	April, 2014- September, 2014 | Provo, UT  
+Brigham Young University Freshman Mentoring
+
+* Gave personal counseling and assistance to 51 new university students in a peer mentor role
+* Provided leadership in student orientation and other large group activities
 
 # RESEARCH EXPERIENCE
 
@@ -191,66 +262,7 @@ Brigham Young Univeristy, Alberto Puertas
 * Wrote new curriculum for a career development course focusing on narrative approaches to career decision
 * Taught university level career development courses, both supervised and unsupervised
 
-# CLINICAL & TEACHING EXPERIENCE
-
-<!-- __Student Mentor__ \hfill Oct. 2017 - Present | Cambridge, MA
-ZLR Valeon
-
-* Provide face-to-face mentorship to undergraduate students applying to graduate programs in psychology
-* Successfully tailor applications to top programs
-* Advise students in specific research areas -->
-
-__Student Therapist__ \hfill Aug. 2018 - Present | Belmont, MA   
-Behavioral Health Partial Hospitalization Program, McLean Hospital
-
-* Give care to a diverse patient base with wide degrees & forms of psychopathology in an intensive setting
-* Perform diagnostic assessments and formulate case conceptualizations
-* Lead three DBT & CBT-based group therapy sessions per week
-
-__Exposure and Response Prevention Counselor__ \hfill June 2017 - Aug. 2018 | Belmont, MA
-Obsessive-Compulsive Disorder Institute, McLean Hospital
-
-* Provided evidence-based treatment for obsessive-compulsive and anxiety disorders
-* Administered psychological assessments and write comprehensive reports (SCID-5, MoCA)
-* Lead and co-lead group therapy sessions focused on worry management and emotion regulation
-
-__Psychology Concentration Advisor__ \hfill Apr. 2017 - Apr. 2018 | Cambridge, MA  
-Harvard University
-
-* Provided academic and career counseling to undergraduate psychology students
-* Worked in collaboration with professional advisers and student advocacy groups
-
-__International School Psychology Intern__ \hfill	Apr. 2015- Aug., 2015 | Lima, Peru  
-Colegio Brigham Young School
-
-* Performed one-on-one interventions for students suffering from attention and learning disabilities
-* Provided training for parents and teachers to improve management of student behavior
-* Crossed cultural barriers by immersion in the Peruvian educational system and by communicating exclusively in the Spanish language
-
-__Career Counseling Paraprofessional__ \hfill	May, 2014- June, 2015 | Provo, UT  
-Brigham Young University Career and Counseling Center
-
-* Administered career counseling to more than 100 students, both supervised and unsupervised in a peer mentor role
-* Trained in humanistic and existential psychotherapy methods for career counseling
-
-__Teaching Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
-Brigham Young University, Department of Student Development
-
-* Taught university level career development courses
-* Provided personalized feedback for personality and career testing including Holland career types and the Campbell Interest and Skill Survey
-
-__Peer Mentor__	\hfill	April, 2014- September, 2014 | Provo, UT  
-Brigham Young University Freshman Mentoring
-
-* Gave personal counseling and assistance to 51 new university students in a peer mentor role
-* Provided leadership in student orientation and other large group activities
-
-__Youth Counselor__	\hfill	May, 2011- September, 2011 | Seattle, WA  
-Boy Scouts of America: ScoutReach Initiative
-
-* Supervised, mentored, and counseled about 80 troubled youth ages 6-10
-* Participated in outreach contacting and recruiting groups in low-income neighborhoods
-
+<!-- 
 # VOLUNTEER & LEADERSHIP 
 
 __Psi Chi Presidency__	\hfill	September, 2015- Present | Provo, UT  
@@ -267,13 +279,6 @@ Brigham Young University Counseling and Psychological Services
 * Educated peers about mental health stigma and how to seek proper treatment for psychological dysfunction 
 * Promoted the correct treatment of mental disorders through social media
 
-__Research Panel Chair__ \hfill	September, 2015- Present | Provo, UT  
-Inquiry Conference, David M. Kennedy Center for International Studies
-
-* Spearheaded organization of the research panel _Overcoming Challenges in Global Development_
-* Facilitated discussion of research presentations by an academic panel
-* Organized coordination of technical and visual aspects of presentations
-
 __Vocational Rehabilitation Technician__ \hfill	Jan., 2015- June, 2015 | Provo, UT  
 Utah State Hospital, Forensic Unit
 
@@ -285,7 +290,7 @@ __Full-time Service Volunteer__	\hfill Oct., 2011- Oct., 2013 | Vitoria, Brazil
 The Church of Jesus Christ of Latter-Day Saints
 
 * Managed 26 other volunteers during a full-time 2-year service mission
-* Immersed in Brazilian culture, including more than 11 months with no contact with other Americans
+* Immersed in Brazilian culture, including more than 11 months with limited contact with other Americans
 * Assisted individuals in addiction recovery and resolution of familial problems
 
 # AWARDS & HONORS
@@ -323,6 +328,8 @@ Boeing Employees Credit Union
 __Heritage Scholarship__	\hfill August 2011  
 Brigham Young University
 
+-->
+
 # LANGUAGE & INTERNATIONAL EXPERIENCE
 
 __Brazilian Portuguese__	\hfill July 2011- Present  
@@ -336,6 +343,5 @@ __Spanish__		\hfill April 2015- Present
 Professional Proficiency
 
 * Lived in Lima, Peru from April 2015 to August 2015
-<!-- * Published 1 article in Spanish in a Venezuelan academic journal-->
 * Presented an academic presentation at a university conference in Lima, Peru
 * Presented an academic presentation to the Peruvian consulate of Utah 
