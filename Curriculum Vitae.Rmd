@@ -45,6 +45,10 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+13\. __Jones, P. J.__, Ma, R., & McNally, R. J. (2019). Bridge centrality: A network approach to understanding comorbidity. _Multivariate Behavioral Research._
+
+12\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (2019). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._
+
 11\. __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (2019). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. _Clinical Psychological Science._
 
 10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_, 1742
@@ -135,9 +139,7 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-3\. __Jones, P. J.__, Ma, R., & McNally, R. J. (in review). Bridge centrality: A network approach to understanding comorbidity.
-
-2\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (in review). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis.
+2\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (in review). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. 
 
 1\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents.
 
@@ -151,11 +153,11 @@ _* = panel chair_
 
 * Psychological Review
 * JAMA Psychiatry
-* Clinical Psychological Science
+* Clinical Psychological Science <!-- 2 -->
 * Psychotherapy and Psychosomatics
 * Psychological Medicine  <!-- 2 -->
 * Behavior Research and Therapy
-* Journal of Affective Disorders
+* Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Frontiers in Psychology <!-- 2 -->
 * Archives of Suicide Research <!-- 2 -->
@@ -187,7 +189,7 @@ Obsessive-Compulsive Disorder Institute, McLean Hospital
 * Administered psychological assessments and write comprehensive reports (SCID-5, MoCA)
 * Lead and co-lead group therapy sessions focused on worry management and emotion regulation
 
-__Career Counseling Paraprofessional__ \hfill	May, 2014- June, 2015 | Provo, UT  
+__Career Counseling Paraprofessional__ \hfill	May 2014- June 2015 | Provo, UT  
 Brigham Young University Career and Counseling Center
 
 * Administered career counseling to more than 100 students, both supervised and unsupervised in a peer mentor role
@@ -211,8 +213,8 @@ ZLR Valeon
 __Teaching Fellow__ \hfill Jan. 2019 - Present | Cambridge, MA  
 Harvard University
 
-* Undergraduate course in Abnormal Psychology 
-* Taught 2 sections of ~25 students each
+* Instructed an undergraduate course in Abnormal Psychology 
+* Taught 2 sections of ~20 students each
 
 __Psychology Concentration Advisor__ \hfill Apr. 2017 - Apr. 2018 | Cambridge, MA  
 Harvard University
@@ -230,8 +232,8 @@ Colegio Brigham Young School
 __Teaching Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
 Brigham Young University, Department of Student Development
 
-* Taught university level career development courses
-* Provided personalized feedback for personality and career testing including Holland career types and the Campbell Interest and Skill Survey
+* Taught an undergraduate career development course
+* Provided personalized feedback for personality and career testing
 
 __Peer Mentor__	\hfill	April, 2014- September, 2014 | Provo, UT  
 Brigham Young University Freshman Mentoring
@@ -244,22 +246,22 @@ Brigham Young University Freshman Mentoring
 __Graduate Student__		\hfill September, 2016 - Present | Cambridge, MA  
 Harvard University, Dr. Richard McNally 
 
-* Research the etiology of psychopathology via network analysis and dynamical systems
 * Examine how modern sociocultural practices shape vulnerability to mental illness
+* Research the etiology of psychopathology via network analysis and other quantitative approaches
 * Collaborate with leading scholars to advance the field of clinical psychology
 
 __Research Assistant__		\hfill December. 2015- August, 2016 | Provo, UT  
 Brigham Young Univeristy, Dr. Tyler Lefevor
 
-* Published peer-reviewed articles and presented at conferences on the topics of positive psychology interventions, sexuality, and anxiety in college students
+* Published first-authored peer-reviewed articles and presented at conferences on the topics of positive psychology interventions, sexuality, and anxiety in college students
 * Wrote literature reviews and collaborated on multiple projects with peers
-* Performed statistical analyses in SPSS including hierarchical multiple regression and ANOVA
+* Took the lead on several projects and conducted statistical analyses
 
 __Research Assistant__	\hfill	January, 2015- August, 2016 | Provo, UT  
 Brigham Young Univeristy, Dr. Bruce Brown, Associate Chair
 
 * Analyzed statistical data using SAS, SPSS, R, and STATA
-* Performed a wide variety of statistical analyses including exploratory and confirmatory factor analysis, factor score plotting, multiple regression, and logistic regression
+* Performed a wide variety of psychometric and regression-based analyses
 * Utilized and evaluated statistical techniques for the prediction of ethical behavior
 
 __Research Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
@@ -267,7 +269,6 @@ Brigham Young Univeristy, Alberto Puertas
 
 * Assisted in research concerning emerging career counseling models
 * Wrote new curriculum for a career development course focusing on narrative approaches to career decision
-* Taught university level career development courses, both supervised and unsupervised
 
 <!-- 
 # VOLUNTEER & LEADERSHIP 
@@ -342,7 +343,7 @@ Brigham Young University
 __Brazilian Portuguese__	\hfill July 2011- Present  
 Bilingual Proficiency
 
-* Lived in Vitoria, Espirito Santo, Brazil from December 2011 to October 2013. 
+* Lived in Espirito Santo, Brazil from December 2011 to October 2013. 
 * Lived without any English contact from November 2012 to October 2013
 * Mastery Level Certification from the American Council for the Teaching of Foreign Languages
 
