@@ -45,6 +45,8 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (2019). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._
+
 13\. __Jones, P. J.__, Ma, R., & McNally, R. J. (2019). Bridge centrality: A network approach to understanding comorbidity. _Multivariate Behavioral Research._
 
 12\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (2019). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._
@@ -83,11 +85,12 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 # STATISTICAL SOFTWARE
 
-2\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 0.2.0._ https://CRAN.R-project.org/package=networktree
+3\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 0.2.0._ https://CRAN.R-project.org/package=networktree
+
+2\. van Borkulo, C., Epskamp, S., Millner, A., & __Jones, P. J.__ (2017). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. https://CRAN.R-project.org/package=NetworkComparisonTest
 
 1\. __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
 
-<!-- van Borkulo, C., __Jones, P. J.__ (2017). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. https://github.com/paytonjjones/NetworkComparisonTest -->
 
 # ACADEMIC PRESENTATIONS
 
@@ -139,7 +142,13 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-2\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (in review). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. 
+5\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
+
+4\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in review). Trigger warnings and resilience in college students: A preregistered replication experiment.
+
+3\. Vanzhula, I. A., Christian, C. __Jones, P. J.___, ... & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
+
+2\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (in review). Obsessive-compulsive symptoms in eating disorders: A network investigation.
 
 1\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents.
 
@@ -155,13 +164,13 @@ _* = panel chair_
 * JAMA Psychiatry
 * Clinical Psychological Science <!-- 2 -->
 * Psychotherapy and Psychosomatics
-* Psychological Medicine  <!-- 2 -->
+* Psychological Medicine  <!-- 3 -->
 * Behavior Research and Therapy
 * Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Frontiers in Psychology <!-- 2 -->
 * Archives of Suicide Research <!-- 2 -->
-* International Journal of Methods in Psychiatric Research
+* International Journal of Methods in Psychiatric Research <! -- 2 -->
 * European Journal of Psychotraumatology
 * Journal of Rational-Emotive & Cognitive Behavior Therapy
 * SAGE Open
@@ -179,7 +188,7 @@ __Student Therapist__ \hfill Aug. 2018 - May 2019 | Belmont, MA
 Behavioral Health Partial Hospitalization Program, McLean Hospital
 
 * Give care to a diverse patient base with wide degrees & forms of psychopathology in an intensive setting
-* Perform diagnostic assessments and formulate case conceptualizations
+* Perform diagnostic assessments (MINI) and formulate case conceptualizations
 * Lead three DBT & CBT-based group therapy sessions per week
 
 __Student Therapist__ \hfill June 2017 - Aug. 2018 | Belmont, MA  
