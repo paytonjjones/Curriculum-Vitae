@@ -85,9 +85,9 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 # STATISTICAL SOFTWARE
 
-3\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2018). networktree: Recursive partitioning of network models. _R package version 0.2.0._ https://CRAN.R-project.org/package=networktree
+3\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2019). networktree: Recursive partitioning of network models. _R package version 0.2.2._ https://CRAN.R-project.org/package=networktree
 
-2\. van Borkulo, C., Epskamp, S., Millner, A., & __Jones, P. J.__ (2017). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. https://CRAN.R-project.org/package=NetworkComparisonTest
+2\. van Borkulo, C., Epskamp, S., & __Jones, P. J.__ (2019). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. _R package version 2.2.1._ https://CRAN.R-project.org/package=NetworkComparisonTest
 
 1\. __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
 
@@ -142,11 +142,17 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
+8\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+
+7\. Peckahm, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
+
+6\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
+
 5\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
 
 4\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in review). Trigger warnings and resilience in college students: A preregistered replication experiment.
 
-3\. Vanzhula, I. A., Christian, C. __Jones, P. J.___, ... & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
+3\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, ... & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
 2\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (in review). Obsessive-compulsive symptoms in eating disorders: A network investigation.
 
@@ -165,6 +171,7 @@ _* = panel chair_
 * Clinical Psychological Science <!-- 2 -->
 * Psychotherapy and Psychosomatics
 * Psychological Medicine  <!-- 3 -->
+* Emotion
 * Behavior Research and Therapy
 * Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
