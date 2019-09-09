@@ -146,6 +146,8 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
+12\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
+
 11\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
 10\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
@@ -178,7 +180,7 @@ _* = panel chair_
 
 * Psychological Review
 * JAMA Psychiatry
-* Clinical Psychological Science <!-- 2 -->
+* Clinical Psychological Science <!-- 3 -->
 * Psychotherapy and Psychosomatics
 * Psychological Medicine <!-- 5 -->
 * Emotion
@@ -208,14 +210,14 @@ Behavioral Health Partial Hospitalization Program, McLean Hospital
 
 * Provided care to a diverse patient base with wide degrees & forms of psychopathology in an intensive setting
 * Performed diagnostic assessments (MINI) and formulate case conceptualizations
-* Lead three DBT & CBT-based group therapy sessions per week
+* Led six different DBT & CBT-based therapy groups
 
 __Student Therapist__ \hfill June 2017 - Aug. 2018 | Belmont, MA  
 Obsessive-Compulsive Disorder Institute, McLean Hospital
 
 * Provided evidence-based individual therapy for obsessive-compulsive and anxiety disorders
 * Administered psychological assessments and write comprehensive reports (SCID, PID, MoCA)
-* Lead and co-lead group therapy sessions focused on worry management and emotion regulation
+* Lead and co-lead group therapy sessions focused on managing intrusive thoughts
 
 __Career Counseling Paraprofessional__ \hfill	May 2014- June 2015 | Provo, UT  
 Brigham Young University Career and Counseling Center
