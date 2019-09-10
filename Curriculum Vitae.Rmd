@@ -47,13 +47,13 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (2019). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._
+14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (in press). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._
 
-13\. __Jones, P. J.__, Ma, R., & McNally, R. J. (2019). Bridge centrality: A network approach to understanding comorbidity. _Multivariate Behavioral Research._
+13\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (in press). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._
 
-12\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (2019). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._
+12\. __Jones, P. J.__, Ma, R., & McNally, R. J. (2019). Bridge centrality: A network approach to understanding comorbidity. _Multivariate Behavioral Research._ https://doi.org/10.1080/00273171.2019.1614898
 
-11\. __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (2019). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. _Clinical Psychological Science._
+11\. __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (2019). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. _Clinical Psychological Science._ https://doi.org/10.1177/2167702619858424
 
 10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_, 1742
 
@@ -65,7 +65,7 @@ Brigham Young University
 
 6\. Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_, 75-82
 
-5\. Levinson, C. A., ... __Jones, P. J.__, et al. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders  51_(7), 693-709
+5\. Levinson, C. A., Brosof, L. C., Vanzhula, I. Christian, C., __Jones, P. J.__, Rodebaugh, T. L., Langer, J. K., White, E. K., Warren, C., Weeks, J. W., Menatti, A., Lim, M. H., & Fernandez, K. C. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders  51_(7), 693-709
 
 4\. Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders. 51_(7), 668-679
 
@@ -160,7 +160,7 @@ _* = panel chair_
 
 6\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in review). Trigger warnings and resilience in college students: A preregistered replication experiment.
 
-5\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, ... & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
+5\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
 4\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (in review). Obsessive-compulsive symptoms in eating disorders: A network investigation.
 
@@ -184,7 +184,7 @@ _* = panel chair_
 * Psychotherapy and Psychosomatics
 * Psychological Medicine <!-- 5 -->
 * Emotion
-* Behavior Research and Therapy
+* Behaviour Research and Therapy
 * Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Frontiers in Psychology <!-- 2 -->
@@ -240,7 +240,7 @@ ZLR Valeon
 * Successfully tailor applications to top programs
 * Advise students in specific research areas -->
 
-__Teaching Fellow: Psychometrics in R__ \hfill Aug. 2019 - Present | Cambridge, MA
+__Teaching Fellow: Psychometrics in R (Graduate)__ \hfill Aug. 2019 - Present | Cambridge, MA  
 Harvard University
 
 * Taught sections of an advanced graduate-level course in psychometrics
