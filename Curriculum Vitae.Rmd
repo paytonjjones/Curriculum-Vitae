@@ -71,7 +71,7 @@ Brigham Young University
 
 3\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science. 6_(6), 797-809
 
-2\. __Jones, P. J.__, McNally, R.J., Mair, P., Mugno, B.L., Riemann, B.C. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_, 1-8 
+2\. __Jones, P. J.__, Mair, P., Mugno, B. L., Riemann, B. C. & McNally, R. J. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_, 1-8 
 
 1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_, 1305 
 
@@ -79,7 +79,7 @@ Brigham Young University
 
 __National Science Foundation__, Graduate Research Fellowship, $138,000 \hfill 2018-2021 
 
-__Mind, Brain, & Behavior Initiative__, Graduate Student Award, $5,115 \hfill 2018
+__Mind, Brain, & Behavior Initiative__, Graduate Student Awards (2), $5,115 \hfill 2018
 
 __Harvard University__, Talley Award, $3,500, \hfill 2018
 
@@ -146,13 +146,13 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-12\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
+12\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-11\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+11\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
 
-10\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+10\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
 
-9\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
+9\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
 
 8\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
 
@@ -187,6 +187,7 @@ _* = panel chair_
 * Behaviour Research and Therapy
 * Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
+* Perspectives in Psychological Science
 * Frontiers in Psychology <!-- 2 -->
 * Archives of Suicide Research <!-- 2 -->
 * International Journal of Methods in Psychiatric Research <!-- 3 -->
@@ -283,16 +284,16 @@ Brigham Young University Freshman Mentoring
 __Graduate Student__		\hfill September, 2016 - Present | Cambridge, MA  
 Harvard University, Dr. Richard McNally 
 
-* Examine how modern sociocultural practices shape vulnerability to mental illness
 * Research the etiology of psychopathology via network analysis and other quantitative approaches
 * Collaborate with leading scholars to advance the field of clinical psychology
+* Examine cognitive and social vulnerabilities to emotional disorders
 
 __Research Assistant__		\hfill December. 2015- August, 2016 | Provo, UT  
 Brigham Young Univeristy, Dr. Tyler Lefevor
 
 * Published first-authored peer-reviewed articles and presented at conferences on the topics of positive psychology interventions, sexuality, and anxiety in college students
 * Wrote literature reviews and collaborated on multiple projects with peers
-* Took the lead on several projects and conducted statistical analyses
+* Conducted and interpreted statistical analyses
 
 __Research Assistant__	\hfill	January, 2015- August, 2016 | Provo, UT  
 Brigham Young Univeristy, Dr. Bruce Brown, Associate Chair
@@ -340,6 +341,9 @@ The Church of Jesus Christ of Latter-Day Saints
 
 # AWARDS & HONORS
 
+__Top 25 Reviewer__ \hfill Sep. 2019
+The Journal of Child Psychology and Psychiatry
+
 __Sigma Xi Nomination__ \hfill July 2018  
 Sigma Xi Scientific Research Honor Society
 
@@ -380,7 +384,7 @@ Brigham Young University
 __Brazilian Portuguese__	\hfill July 2011- Present  
 Bilingual Proficiency
 
-* Lived in Espirito Santo, Brazil from December 2011 to October 2013. 
+* Lived in Espirito Santo, Brazil from December 2011 to October 2013
 * Lived without any English contact from November 2012 to October 2013
 * Mastery Level Certification from the American Council for the Teaching of Foreign Languages
 
