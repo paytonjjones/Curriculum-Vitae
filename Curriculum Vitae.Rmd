@@ -36,6 +36,11 @@ Harvard University
 
 <!-- GPA: 3.88 -->
 
+__Psychology, MA__ \hfill 2016-2018 | Cambridge, MA  
+Harvard University  
+
+* Thesis: Bridge Centrality - A Network Approach to Comorbidity
+
 __Psychology, BS__ \hfill 2011-2016 | Provo, UT  
 Brigham Young University
 
@@ -106,7 +111,7 @@ _* = panel chair_
 
 14\. __Jones, P. J.__*, Ma, R., & McNally, R. J. (2019). _Depression comorbidity: Applying bridge centrality in networks to understand overlap with other mental disorders_. Symposium at the International Conference for Psychological Science, Paris, France. 
 
-13\. __Jones, P. J.__*, Simon, T., Zeleis, A., & Mair, P. (2019). _Breaking the assumption of group homogeneity in networks: partitioning networks with machine learning_. Symposium at the International Conference for Psychological Science, Paris, France. 
+13\. __Jones, P. J.__*, Simon, T., Zeileis, A., & Mair, P. (2019). _Breaking the assumption of group homogeneity in networks: partitioning networks with machine learning_. Symposium at the International Conference for Psychological Science, Paris, France. 
 
 12\. __Jones, P. J.__, McNally, R. J. (2019). _Do the ever-expanding definitions of violence and trauma contribute to PTSD? Evidence for the trauma treadmill_. Symposium at the International Conference for Psychological Science, Paris, France. 
 
@@ -200,7 +205,7 @@ _* = panel chair_
 # CLINICAL EXPERIENCE
 
 __Student Therapist__ \hfill May 2019 - Present | Boston, MA   
-Center for Anxiety and Traumatic Stress Disorders, Massachusetts General Hosptial
+Center for Anxiety and Traumatic Stress Disorders, Massachusetts General Hospital
 
 * Deliver individual therapy to individuals with traumatic stress and anxiety disorders
 * Trained in delivering evidence-based protocols including the UP, PE, and CBT for SAD & panic
@@ -217,8 +222,8 @@ __Student Therapist__ \hfill June 2017 - Aug. 2018 | Belmont, MA
 Obsessive-Compulsive Disorder Institute, McLean Hospital
 
 * Provided evidence-based individual therapy for obsessive-compulsive and anxiety disorders
-* Administered psychological assessments and write comprehensive reports (SCID, PID, MoCA)
-* Lead and co-lead group therapy sessions focused on managing intrusive thoughts
+* Administered psychological assessments and wrote comprehensive reports (SCID, PID, MoCA)
+* Led group therapy sessions focused on managing intrusive thoughts
 
 __Career Counseling Paraprofessional__ \hfill	May 2014- June 2015 | Provo, UT  
 Brigham Young University Career and Counseling Center
@@ -264,8 +269,7 @@ __International School Psychology Intern__ \hfill	Apr. 2015- Aug., 2015 | Lima, 
 Colegio Brigham Young School
 
 * Performed one-on-one interventions for students suffering from attention and learning disabilities
-* Provided training for parents and teachers to improve management of student behavior
-* Crossed cultural barriers by immersion in the Peruvian educational system and by communicating exclusively in the Spanish language
+* Crossed cultural barriers by immersion in the Peruvian educational system, communicating exclusively in the Spanish language
 
 __Teaching Assistant__	\hfill	May, 2014- June, 2015 | Provo, UT  
 Brigham Young University, Department of Student Development
@@ -289,7 +293,7 @@ Harvard University, Dr. Richard McNally
 * Examine cognitive and social vulnerabilities to emotional disorders
 
 __Research Assistant__		\hfill December. 2015- August, 2016 | Provo, UT  
-Brigham Young Univeristy, Dr. Tyler Lefevor
+Brigham Young University, Dr. Tyler Lefevor
 
 * Published first-authored peer-reviewed articles and presented at conferences on the topics of positive psychology interventions, sexuality, and anxiety in college students
 * Wrote literature reviews and collaborated on multiple projects with peers
@@ -385,7 +389,7 @@ __Brazilian Portuguese__	\hfill July 2011- Present
 Bilingual Proficiency
 
 * Lived in Espirito Santo, Brazil from December 2011 to October 2013
-* Lived without any English contact from November 2012 to October 2013
+* Lived without English contact from November 2012 to October 2013
 * Mastery Level Certification from the American Council for the Teaching of Foreign Languages
 
 __Spanish__		\hfill April 2015- Present  
