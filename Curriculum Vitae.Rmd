@@ -52,6 +52,14 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+18\. Summers, B. J., Aalbers, G., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (in press). A network perspective on body dysmorphic disorder and major depressive disorder. _Journal of Affective Disorders_
+
+17\. Robinaugh, D. R., Brown, M. L., Losiewicz, O., __Jones, P. J.__, Marques, L., & Baker, A. W. (in press). Toward a precision psychiatry approach to treating anxiety disorders with ecological momentary assessment: The example of panic disorder. _General Psychiatry._
+
+16\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (in press). Obsessive-compulsive symptoms in eating disorders: A network investigation. _International Journal of Eating Disorders._
+
+15\. Lefevor, G. T., Park, S. Y., Acevedo, M. J., & __Jones, P. J.__ (in press). Sexual orientation complexity and psychosocial/health outcomes. _Journal of Homosexuality._
+
 14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (in press). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._
 
 13\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (in press). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._
@@ -103,7 +111,11 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 _* = panel chair_
 
-17\. Vanzhula, I.A., Christian, C., __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (2019). _Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations_. Poster at the Annual Meeting of the Eating Disorder Research Society in Chicago, IL. 
+19\. Jones, P. J. (2019). Sticks and stones: Investigating the belief that words can harm. Presentation at the Annual Meeting of the Foundation of Individual Rights in Education, Boston, MA.
+
+18\. Smith, A. R., Forrest, L. N., Duffy, M. __Jones, P. J.__, Pisetsky, E. M. (2019). Using network analysis to identify bridge symptoms between eating disorders and suicidality. Poster at the Annual Meeting of the Eating Disorder Research Society in Chicago, IL. 
+
+17\. Vanzhula, I. A., Christian, C., __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (2019). _Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations_. Poster at the Annual Meeting of the Eating Disorder Research Society in Chicago, IL. 
 
 16\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., & McNally, R. J. (2019). _The network structure of obsessive-compulsive symptoms in patients with eating disorders_. Poster at the World Congress of Behavioural and Cognitive Therapies, Berlin, Germany.
 
@@ -151,31 +163,26 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-12\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+10\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-11\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+9\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
 
-10\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
+8\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
 
-9\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
+7\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
 
-8\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
+6\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
 
-7\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
+5\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
 
-6\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in review). Trigger warnings and resilience in college students: A preregistered replication experiment.
+4\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in review). Trigger warnings and resilience in college students: A preregistered replication experiment.
 
-5\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
+3\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
-4\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (in review). Obsessive-compulsive symptoms in eating disorders: A network investigation.
+2\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents.
 
-3\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents.
+1\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in review). Psychological response data on the traumatic nature of 600 written events.
 
-2\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in review). Psychological response data on the traumatic nature of 600 written events.
-
-1\. Aalbers, G., Summers, B. J., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (in review). A network perspective on body dysmorphic disorder and major depressive disorder.
-
-<!-- Lefevor, G. T., __Jones, P. J.__, Williams, J. S., Park, S. Y., & Acevedo, M. (in review). Sexual orientation discordance and psychological distress: A comparative study of heterosexual, LGB, and discordant men and women. -->
 
 # GRANT REVIEWER FOR:
 
