@@ -39,7 +39,7 @@ Harvard University
 __Psychology, MA__ \hfill 2016-2018 | Cambridge, MA  
 Harvard University  
 
-* Thesis: Bridge Centrality - A Network Approach to Comorbidity
+<!-- * Thesis: Bridge Centrality - A Network Approach to Comorbidity -->
 
 __Psychology, BS__ \hfill 2011-2016 | Provo, UT  
 Brigham Young University
@@ -52,7 +52,9 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-18\. Summers, B. J., Aalbers, G., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (in press). A network perspective on body dysmorphic disorder and major depressive disorder. _Journal of Affective Disorders_
+19\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in press). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._
+
+18\. Summers, B. J., Aalbers, G., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (in press). A network perspective on body dysmorphic disorder and major depressive disorder. _Journal of Affective Disorders._
 
 17\. Robinaugh, D. R., Brown, M. L., Losiewicz, O., __Jones, P. J.__, Marques, L., & Baker, A. W. (in press). Toward a precision psychiatry approach to treating anxiety disorders with ecological momentary assessment: The example of panic disorder. _General Psychiatry._
 
@@ -111,7 +113,9 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 _* = panel chair_
 
-19\. Jones, P. J. (2019). Sticks and stones: Investigating the belief that words can harm. Presentation at the Annual Meeting of the Foundation of Individual Rights in Education, Boston, MA.
+20\. __Jones, P. J.__ (2019). Trigger warnings and the neurotic treadmill: Does it matter if we expand the definition of violence? Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Atlanta, GA.
+
+19\. __Jones, P. J.__ (2019). Sticks and stones: Investigating the belief that words can harm. Presentation at the Annual Meeting of the Foundation of Individual Rights in Education, Boston, MA.
 
 18\. Smith, A. R., Forrest, L. N., Duffy, M. __Jones, P. J.__, Pisetsky, E. M. (2019). Using network analysis to identify bridge symptoms between eating disorders and suicidality. Poster at the Annual Meeting of the Eating Disorder Research Society in Chicago, IL. 
 
@@ -163,19 +167,21 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-10\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+11\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder
 
-9\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+10\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. 
 
-8\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
+9\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-7\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
+8\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
 
-6\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
+7\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
 
-5\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
+6\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
 
-4\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in review). Trigger warnings and resilience in college students: A preregistered replication experiment.
+5\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
+
+4\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
 
 3\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
@@ -215,7 +221,7 @@ __Student Therapist__ \hfill May 2019 - Present | Boston, MA
 Center for Anxiety and Traumatic Stress Disorders, Massachusetts General Hospital
 
 * Deliver individual therapy to individuals with traumatic stress and anxiety disorders
-* Trained in delivering evidence-based protocols including the UP, PE, and CBT for SAD & panic
+* Trained in delivering evidence-based protocols including the UP, PE, CPT, and CBT for SAD & panic
 * Administer and interpret diagnostic assessments (SCID, MINI)
 
 __Student Therapist__ \hfill Aug. 2018 - May 2019 | Belmont, MA   
