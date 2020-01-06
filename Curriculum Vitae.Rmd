@@ -52,6 +52,8 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+21\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in press). Applying network analysis to understand depression and substance use in indian adolescents. _Journal of Affective Disorders._
+
 20\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in press). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._
 
 19\. Bellet, B. W., __Jones, P. J.___, & McNally, R. J. (in press). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_.
@@ -169,25 +171,25 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-11\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder
+11.\ Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
-10\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. 
+10\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
 
-9\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+9\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. 
 
-8\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+8\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-7\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
+7\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
 
-6\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
+6\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
 
-5\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
+5\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
 
-4\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
+4\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
 
-3\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
+3\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
 
-2\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in review). Network analysis and global mental health: Findings from a network of depressive symptoms and substance use in Indian adolescents.
+2\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
 1\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in review). Psychological response data on the traumatic nature of 600 written events.
 
