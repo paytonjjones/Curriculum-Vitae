@@ -52,23 +52,27 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-21\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (in press). Applying network analysis to understand depression and substance use in indian adolescents. _Journal of Affective Disorders._
+23\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. _Frontiers in Neurology._
 
-20\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in press). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._
+22\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in press). Helping or harming? The effect of trigger warnings on individuals with trauma histories. _Clinical Psychological Science._
 
-19\. Bellet, B. W., __Jones, P. J.___, & McNally, R. J. (in press). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_.
+21\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in press). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._
 
-18\. Summers, B. J., Aalbers, G., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (in press). A network perspective on body dysmorphic disorder and major depressive disorder. _Journal of Affective Disorders._
+20\. Bellet, B. W., __Jones, P. J.___, & McNally, R. J. (in press). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_.
 
-17\. Robinaugh, D. R., Brown, M. L., Losiewicz, O., __Jones, P. J.__, Marques, L., & Baker, A. W. (in press). Toward a precision psychiatry approach to treating anxiety disorders with ecological momentary assessment: The example of panic disorder. _General Psychiatry._
+19\. Lefevor, G. T., Park, S. Y., Acevedo, M. J., & __Jones, P. J.__ (in press). Sexual orientation complexity and psychosocial/health outcomes. _Journal of Homosexuality._
 
-16\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (in press). Obsessive-compulsive symptoms in eating disorders: A network investigation. _International Journal of Eating Disorders._
+18\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (2020). Applying network analysis to understand depression and substance use in indian adolescents. _Journal of Affective Disorders. 265_, 278-286. https://doi.org/10.1016/j.jad.2020.01.025
 
-15\. Lefevor, G. T., Park, S. Y., Acevedo, M. J., & __Jones, P. J.__ (in press). Sexual orientation complexity and psychosocial/health outcomes. _Journal of Homosexuality._
+17\. Summers, B. J., Aalbers, G., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (2020). A network perspective on body dysmorphic disorder and major depressive disorder. _Journal of Affective Disorders. 262_, 165-173. https://doi.org/10.1016/j.jad.2019.11.011
 
-14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (in press). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._
+16\. Robinaugh, D. R., Brown, M. L., Losiewicz, O., __Jones, P. J.__, Marques, L., & Baker, A. W. (2020). Toward a precision psychiatry approach to treating anxiety disorders with ecological momentary assessment: The example of panic disorder. _General Psychiatry. 33_, e100161. https://doi.org/10.1136/gpsych-2019-100161
 
-13\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (in press). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._
+15\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (2020). Obsessive-compulsive symptoms in eating disorders: A network investigation. _International Journal of Eating Disorders._ https://doi.org/10.1002/eat.23196
+
+14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (2019). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._ https://doi.org/10.1177/2167702619859333
+
+13\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (2019). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._ https://doi.org/10.1177/2167702619865958
 
 12\. __Jones, P. J.__, Ma, R., & McNally, R. J. (2019). Bridge centrality: A network approach to understanding comorbidity. _Multivariate Behavioral Research._ https://doi.org/10.1080/00273171.2019.1614898
 
@@ -171,21 +175,17 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-11.\ Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
+9.\ Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
-10\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
+8\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
 
-9\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. 
+7\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-8\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+6\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
 
-7\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+5\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
 
-6\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
-
-5\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
-
-4\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). Helping or harming? The effect of trigger warnings on individuals with trauma histories. 
+4\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
 
 3\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
 
