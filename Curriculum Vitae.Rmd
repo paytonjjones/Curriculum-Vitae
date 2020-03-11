@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: C:\\Users\\payto\\Documents\\Other\\Curriculum Vitae\\svm-latex-cv.tex
+    template: C:\Users\payto\Google Drive\99 - Other\Curriculum Vitae\svm-latex-cv.tex
 geometry: margin=1in
 
 title: "Curriculum Vitae"
@@ -58,7 +58,7 @@ Brigham Young University
 
 21\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in press). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._
 
-20\. Bellet, B. W., __Jones, P. J.___, & McNally, R. J. (in press). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_.
+20\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in press). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_.
 
 19\. Lefevor, G. T., Park, S. Y., Acevedo, M. J., & __Jones, P. J.__ (in press). Sexual orientation complexity and psychosocial/health outcomes. _Journal of Homosexuality._
 
@@ -70,7 +70,7 @@ Brigham Young University
 
 15\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (2020). Obsessive-compulsive symptoms in eating disorders: A network investigation. _International Journal of Eating Disorders._ https://doi.org/10.1002/eat.23196
 
-14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (2019). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science._ https://doi.org/10.1177/2167702619859333
+14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (2019). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science. 7_(6), 1340-1354. https://doi.org/10.1177/2167702619859333
 
 13\. Elliott, H., __Jones, P. J.__, & Schmidt, U. (2019). Central symptoms predict post-treatment outcomes and clinical impairment in anorexia nervosa: A network analysis. _Clinical Psychological Science._ https://doi.org/10.1177/2167702619865958
 
