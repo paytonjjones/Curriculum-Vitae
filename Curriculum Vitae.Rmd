@@ -52,7 +52,9 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-23\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. _Frontiers in Neurology._
+24\. Smith, A. R., Forrest, L. N., Duffy, M. E., __Jones, P. J.__, Joiner, T. E., & Pisetsky, E. M. (in press). Identifying bridge pathways between eating disorder symptoms and suicidal ideation across three samples. _Journal of Abnormal Psychology._ 
+
+23\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. _Frontiers in Neurology. 11_, 175. https://doi.org/10.3389/fneur.2020.00175
 
 22\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in press). Helping or harming? The effect of trigger warnings on individuals with trauma histories. _Clinical Psychological Science._
 
@@ -68,7 +70,7 @@ Brigham Young University
 
 16\. Robinaugh, D. R., Brown, M. L., Losiewicz, O., __Jones, P. J.__, Marques, L., & Baker, A. W. (2020). Toward a precision psychiatry approach to treating anxiety disorders with ecological momentary assessment: The example of panic disorder. _General Psychiatry. 33_, e100161. https://doi.org/10.1136/gpsych-2019-100161
 
-15\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (2020). Obsessive-compulsive symptoms in eating disorders: A network investigation. _International Journal of Eating Disorders._ https://doi.org/10.1002/eat.23196
+15\. Meier, M., Kossakowski, J. J., __Jones, P. J.__, Riemann, B. C., Kay, B., & McNally, R. J. (2020). Obsessive-compulsive symptoms in eating disorders: A network investigation. _International Journal of Eating Disorders. 53_(3), 362-371.  https://doi.org/10.1002/eat.23196
 
 14\. Mancini, A. D., Littleton, H. L., Grills, A. E., & __Jones, P. J.__ (2019). PTSD near and far: Symptom networks from two to 12 months after the Virginia Tech campus shootings. _Clinical Psychological Science. 7_(6), 1340-1354. https://doi.org/10.1177/2167702619859333
 
@@ -299,6 +301,22 @@ Brigham Young University Freshman Mentoring
 
 * Gave personal counseling and assistance to 51 new university students in a peer mentor role
 * Provided leadership in student orientation and other large group activities
+
+# DATA SCIENCE EXPERIENCE
+
+__Data Science Intern__		\hfill May, 2020 - Present | Boston, MA    
+Pluralsight
+
+* Develop algorithmic solutions for adaptive skill assessment, recommendation engines, and personalized learning
+* Create model prototypes and build interactive applications to demonstrate novel solutions to problems
+* Analyze user behavior to provide data-based solutions to business and strategic problems
+
+__Data Scientist__		\hfill November, 2019 - Present | Cambridge, MA    
+Hyka Therapeutics
+
+* Manage data structures, collection, and strategic data analysis for a quickly-growing health startup
+* Develop psychometric and digital phenotyping algorithms for digital therapeutics
+* Design a smartphone-based data visualization platform for users
 
 # RESEARCH EXPERIENCE
 
