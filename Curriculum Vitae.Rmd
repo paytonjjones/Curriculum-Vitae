@@ -183,7 +183,7 @@ _* = panel chair_
 
 7\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-6\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Internalizing symptoms and social support among Kenyan adolescents: A network analysis.
+6\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
 5\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
 
@@ -212,6 +212,7 @@ _* = panel chair_
 * Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Perspectives in Psychological Science
+* Psychological Trauma: Theory, Research, Practice, and Policy
 * Frontiers in Psychology <!-- 2 -->
 * Archives of Suicide Research <!-- 2 -->
 * International Journal of Methods in Psychiatric Research <!-- 3 -->
