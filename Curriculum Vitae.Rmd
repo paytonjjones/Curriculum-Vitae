@@ -209,6 +209,7 @@ _* = panel chair_
 * Psychological Medicine <!-- 5 -->
 * Emotion
 * Behaviour Research and Therapy
+* Journal of Traumatic Stress
 * Journal of Affective Disorders <!-- 2 -->
 * Journal of Child Psychology and Psychiatry <!-- 4 -->
 * Perspectives in Psychological Science
