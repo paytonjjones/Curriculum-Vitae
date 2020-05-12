@@ -177,6 +177,8 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
+10.\ Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
+
 9.\ Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
 8\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
