@@ -52,6 +52,8 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+25\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in press). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. _Journal of Affective Disorders._
+
 24\. Smith, A. R., Forrest, L. N., Duffy, M. E., __Jones, P. J.__, Joiner, T. E., & Pisetsky, E. M. (in press). Identifying bridge pathways between eating disorder symptoms and suicidal ideation across three samples. _Journal of Abnormal Psychology._ 
 
 23\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. _Frontiers in Neurology. 11_, 175. https://doi.org/10.3389/fneur.2020.00175
@@ -177,21 +179,19 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-12\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in review). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. 
+11\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in review). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. 
 
-11\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
+10\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
 
-10\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
+9\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
 
-9\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
+8\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
-8\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
+7\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
 
-7\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+6\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
-6\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
-
-5\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in review). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. 
+5\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
 4\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
 
