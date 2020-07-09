@@ -52,6 +52,8 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+26\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder. _Archives of Clinical Neuropsychology._ https://doi.org/10.1093/arclin/acaa030
+
 25\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in press). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. _Journal of Affective Disorders._
 
 24\. Smith, A. R., Forrest, L. N., Duffy, M. E., __Jones, P. J.__, Joiner, T. E., & Pisetsky, E. M. (in press). Identifying bridge pathways between eating disorder symptoms and suicidal ideation across three samples. _Journal of Abnormal Psychology._ 
@@ -82,25 +84,25 @@ Brigham Young University
 
 11\. __Jones, P. J.__, Mair, P., Kuppens, S., & Weisz, J. R. (2019). An upper limit to youth psychotherapy benefit? A meta-analytic copula approach to psychotherapy outcomes. _Clinical Psychological Science._ https://doi.org/10.1177/2167702619858424
 
-10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_, 1742
+10\. __Jones, P. J.__, Mair, P., & McNally, R. J. (2018). Visualizing psychological networks: A tutorial in R. _Frontiers in Psychology. 9_, 1742. https://doi.org/10.3389/fpsyg.2018.01742
 
-9\. Wang, S. B., __Jones, P. J.__, Dreier, M., Elliott, H., & Grilo, C. M. (2018). Core psychopathology of treatment-seeking patients with binge-eating disorder: A network analysis investigation. _Psychological Medicine. 49_(11), 1923-1928
+9\. Wang, S. B., __Jones, P. J.__, Dreier, M., Elliott, H., & Grilo, C. M. (2018). Core psychopathology of treatment-seeking patients with binge-eating disorder: A network analysis investigation. _Psychological Medicine. 49_(11), 1923-1928. https://doi.org/10.1017/s0033291718002702
 
-8\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). Trigger warning: Empirical evidence ahead. _Journal of Behavior Therapy and Experimental Psychiatry. 61_, 134-141
+8\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2018). Trigger warning: Empirical evidence ahead. _Journal of Behavior Therapy and Experimental Psychiatry. 61_, 134-141. https://doi.org/10.1016/j.jbtep.2018.07.002
 
-7\. __Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (2018). Contemporary collegiate anxiety: academic distress, financial stress, and social support. _Journal of College Counseling. 21_, 252-264
+7\. __Jones, P. J.__, Park, S.Y., & Lefevor, G. T. (2018). Contemporary college student anxiety: The role of academic distress, financial stress, and support. _Journal of College Counseling. 21_, 252-264. https://doi.org/10.1002/jocc.12107
 
-6\. Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_, 75-82
+6\. Heeren, A., __Jones, P.J.__, & McNally, R.J. (2018). Mapping network connectivity among symptoms of social anxiety and comorbid depression in people with social anxiety disorder. _Journal of Affective Disorders. 228_, 75-82. https://doi.org/10.1016/j.jad.2017.12.003
 
-5\. Levinson, C. A., Brosof, L. C., Vanzhula, I. Christian, C., __Jones, P. J.__, Rodebaugh, T. L., Langer, J. K., White, E. K., Warren, C., Weeks, J. W., Menatti, A., Lim, M. H., & Fernandez, K. C. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders  51_(7), 693-709
+5\. Levinson, C. A., Brosof, L. C., Vanzhula, I. Christian, C., __Jones, P. J.__, Rodebaugh, T. L., Langer, J. K., White, E. K., Warren, C., Weeks, J. W., Menatti, A., Lim, M. H., & Fernandez, K. C. (2018). Social anxiety and eating disorder comorbidity and underlying vulnerabilities: Using network analysis to conceptualize comorbidity. _International Journal of Eating Disorders  51_(7), 693-709. https://doi.org/10.1002/eat.22890
 
-4\. Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders. 51_(7), 668-679
+4\. Forrest, L. N., __Jones, P. J.__, Ortiz, S. N., & Smith, A. (2018). Core psychopathology in anorexia nervosa and bulimia nervosa: A network analysis. _International Journal of Eating Disorders. 51_(7), 668-679. https://doi.org/10.1002/eat.22871
 
-3\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science. 6_(6), 797-809
+3\. Bellet, B. W., __Jones, P. J.__, Neimeyer, R. A., & McNally, R. J. (2018). Bereavement outcomes as causal systems: A network analysis of the co-occurrence of complicated grief and posttraumatic growth. _Clinical Psychological Science. 6_(6), 797-809. https://doi.org/10.1177/2167702618777454
 
-2\. __Jones, P. J.__, Mair, P., Mugno, B. L., Riemann, B. C. & McNally, R. J. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_, 1-8 
+2\. __Jones, P. J.__, Mair, P., Mugno, B. L., Riemann, B. C. & McNally, R. J. (2018). A network perspective on comorbid OCD and depression in adolescents. _Journal of Anxiety Disorders. 53_, 1-8. https://doi.org/10.1016/j.janxdis.2017.09.008
 
-1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_, 1305 
+1\. __Jones, P. J.__, Heeren, A., & McNally, R.J. (2017). Commentary: A network theory of mental disorders. _Frontiers in Psychology. 8_, 1305. https://doi.org/10.3389/fpsyg.2017.01305 
 
 # GRANTS & FELLOWSHIPS
 
@@ -179,15 +181,13 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-11\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in review). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. 
+10\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in review). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. 
 
-10\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
+9\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
 
-9\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
+8\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
 
-8\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
-
-7\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in review). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder.
+7\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
 6\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
 
@@ -210,6 +210,7 @@ _* = panel chair_
 
 * Psychological Review
 * JAMA Psychiatry
+* Psychometrika 
 * Clinical Psychological Science <!-- 3 -->
 * Psychotherapy and Psychosomatics
 * Psychological Medicine <!-- 5 -->
@@ -314,6 +315,7 @@ Brigham Young University Freshman Mentoring
 
 __Data Science Intern__		\hfill May, 2020 - Present | Boston, MA    
 Pluralsight
+<!-- * Worked with big data (>2 billion data points) -->
 
 * Develop algorithmic solutions for adaptive skill assessment, recommendation engines, and personalized learning
 * Create model prototypes and build interactive applications to demonstrate novel solutions to problems
