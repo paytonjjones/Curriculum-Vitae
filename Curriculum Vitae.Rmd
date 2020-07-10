@@ -52,23 +52,25 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-26\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder. _Archives of Clinical Neuropsychology._ https://doi.org/10.1093/arclin/acaa030
+27\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in press). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger. _Multivariate Behavioral Research._
 
-25\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (in press). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. _Journal of Affective Disorders._
+26\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (2020). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder. _Archives of Clinical Neuropsychology._ https://doi.org/10.1093/arclin/acaa030
 
-24\. Smith, A. R., Forrest, L. N., Duffy, M. E., __Jones, P. J.__, Joiner, T. E., & Pisetsky, E. M. (in press). Identifying bridge pathways between eating disorder symptoms and suicidal ideation across three samples. _Journal of Abnormal Psychology._ 
+25\. Peckham, A. D., __Jones, P. J.__, Snorrason, I., Wessman, I., Björgvinsson, T., & Beard, C. (2020). Age-related changes in borderline personality disorder symptom networks in a transdiagnostic sample. _Journal of Affective Disorders._ https://doi.org/10.1016/j.jad.2020.05.111
 
-23\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (in press). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. _Frontiers in Neurology. 11_, 175. https://doi.org/10.3389/fneur.2020.00175
+24\. Smith, A. R., Forrest, L. N., Duffy, M. E., __Jones, P. J.__, Joiner, T. E., & Pisetsky, E. M. (2020). Identifying bridge pathways between eating disorder symptoms and suicidal ideation across three samples. _Journal of Abnormal Psychology._ https://doi.org/10.1037/abn0000553
 
-22\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in press). Helping or harming? The effect of trigger warnings on individuals with trauma histories. _Clinical Psychological Science._
+23\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (2020). Architecture of physical, cognitive, and emotional symptoms at preseason baseline in adolescent student athletes with a history of mental health problems. _Frontiers in Neurology. 11_, 175. https://doi.org/10.3389/fneur.2020.00175
 
-21\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (in press). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._
+22\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (2020). Helping or harming? The effect of trigger warnings on individuals with trauma histories. _Clinical Psychological Science._ https://doi.org/10.1177/2167702620921341
 
-20\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in press). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_.
+21\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (2020). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._ https://doi.org/10.1037/xap0000270
 
-19\. Lefevor, G. T., Park, S. Y., Acevedo, M. J., & __Jones, P. J.__ (in press). Sexual orientation complexity and psychosocial/health outcomes. _Journal of Homosexuality._
+20\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2020). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_. https://doi.org/10.1177/2167702620917459
 
-18\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (2020). Applying network analysis to understand depression and substance use in indian adolescents. _Journal of Affective Disorders. 265_, 278-286. https://doi.org/10.1016/j.jad.2020.01.025
+19\. Lefevor, G. T., Park, S. Y., Acevedo, M. J., & __Jones, P. J.__ (2020). Sexual orientation complexity and psychosocial/health outcomes. _Journal of Homosexuality._
+
+18\. Wasil, A., Venturo-Conerly, K. Shinde, S., Patel, V., & __Jones, P. J.__ (2020). Applying network analysis to understand depression and substance use in Indian adolescents. _Journal of Affective Disorders. 265_, 278-286. https://doi.org/10.1016/j.jad.2020.01.025
 
 17\. Summers, B. J., Aalbers, G., __Jones, P. J.__, McNally, R. J., Phillips, K. A., & Wilhelm, S. (2020). A network perspective on body dysmorphic disorder and major depressive disorder. _Journal of Affective Disorders. 262_, 165-173. https://doi.org/10.1016/j.jad.2019.11.011
 
@@ -181,21 +183,20 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-10\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in review). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. 
+9\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events
+narrows one’s concept of trauma.
 
-9\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
+8\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in review). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. 
 
-8\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
+7\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
 
-7\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
+6\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
 
-6\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network model trees.
+5\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
-5\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
+4\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network trees: A method for recursively partitioning covariance structures.
 
-4\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (in review). Self-triggering? An exploration of individuals who seek reminders of trauma. 
-
-3\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in review). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger.
+3\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
 2\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
