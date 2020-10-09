@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: C:\Users\payto\Google Drive\99 - Other\Curriculum Vitae\svm-latex-cv.tex
+    template: /Users/payton-jones/Google Drive/99 - Other/Curriculum Vitae/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "Curriculum Vitae"
@@ -11,10 +11,8 @@ jobtitle:
 address: 
 web: 
 
-email: payton_jones@g.harvard.edu
+email: paytonjjones@gmail.com
 phone: "425-367-2939"
-
-updated: no
 
 keywords: curriculum vitae, Rmarkdown, CV, resume, R, psychology, machine learning, data science, network analysis
 
@@ -28,18 +26,19 @@ urlcolor: black
 
 # EDUCATION
 
-__Clinical Psychology, PhD__ \hfill 2016-Present | Cambridge, MA  
+__Experimental Psychopathology, PhD__ \hfill 2016-2021 | Cambridge, MA  
 Harvard University  
 
 * National Science Foundation Graduate Research Fellow
 * Richard J. McNally Laboratory
+<!-- * Dissertation - The Neurotic Treadmill: Decreasing Adversity, Increasing Vulnerability? -->
 
 <!-- GPA: 3.88 -->
 
 __Psychology, MA__ \hfill 2016-2018 | Cambridge, MA  
 Harvard University  
 
-<!-- * Thesis: Bridge Centrality - A Network Approach to Comorbidity -->
+* Thesis - Bridge Centrality: A Network Approach to Comorbidity 
 
 __Psychology, BS__ \hfill 2011-2016 | Provo, UT  
 Brigham Young University
@@ -52,9 +51,11 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in press). Network trees: A method for recursively partitioning covariance structures. _Psychometrika._ 
+
 28\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in press). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. _Journal of Affective Disorders._
 
-27\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (in press). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger. _Multivariate Behavioral Research._
+27\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (2020). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger. _Multivariate Behavioral Research._ https://doi.org/10.1080/00273171.2020.1797460
 
 26\. Iverson, G. L., __Jones, P. J.__, Karr, J. E., Maxwell, B., Zafonte, R., Berkner, P. D., & McNally, R. J. (2020). Network structure of physical, cognitive, and emotional symptoms at preseason baseline in student athletes with attention-deficit hyperactivity disorder. _Archives of Clinical Neuropsychology._ https://doi.org/10.1093/arclin/acaa030
 
@@ -185,22 +186,21 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-8\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
+7\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
 
-7\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
+6\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
 
-6\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
+5\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
 
-5\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
+4\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
 
-4\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in review). Network trees: A method for recursively partitioning covariance structures.
+3\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
 
-3\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
+2\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
-2\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
+1\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
 
-1\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in review). Psychological response data on the traumatic nature of 600 written events.
-
+<!-- 1\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in review). Psychological response data on the traumatic nature of 600 written events. -->
 
 # GRANT REVIEWER FOR:
 
@@ -313,7 +313,7 @@ Brigham Young University Freshman Mentoring
 
 # DATA SCIENCE EXPERIENCE
 
-__Data Science Intern__		\hfill May, 2020 - Present | Boston, MA    
+__Data Scientist__		\hfill May, 2020 - Present | Boston, MA    
 Pluralsight
 <!-- * Worked with big data (>2 billion data points) -->
 
@@ -330,7 +330,7 @@ Hyka Therapeutics
 
 # RESEARCH EXPERIENCE
 
-__Graduate Student__		\hfill September, 2016 - Present | Cambridge, MA  
+__Graduate Student__		\hfill September, 2016 - May, 2021 (exp.) | Cambridge, MA  
 Harvard University, Dr. Richard McNally 
 
 * Research the etiology of psychopathology via network analysis and other quantitative approaches
