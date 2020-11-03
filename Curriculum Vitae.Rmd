@@ -210,7 +210,8 @@ _* = panel chair_
 
 * Psychological Review
 * JAMA Psychiatry
-* Psychometrika 
+* Psychometrika <!-- 3 -->
+* Psychological Methods <!-- 2 -->
 * Clinical Psychological Science <!-- 3 -->
 * Psychotherapy and Psychosomatics
 * Psychological Medicine <!-- 5 -->
