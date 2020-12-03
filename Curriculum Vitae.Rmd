@@ -51,9 +51,9 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (in press). Network trees: A method for recursively partitioning covariance structures. _Psychometrika._ 
+29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (2020). Network trees: A method for recursively partitioning covariance structures. _Psychometrika._ https://doi.org/10.1007/s11336-020-09731-4
 
-28\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (in press). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. _Journal of Affective Disorders._
+28\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (2020). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. _Journal of Affective Disorders._ https://doi.org/10.1016/j.jad.2020.09.086
 
 27\. __Jones, P. J.__, Williams, D. R., & McNally, R. J. (2020). Sampling variability is not nonreplication: A Bayesian reanalysis of Forbes, Wright, Markon, & Krueger. _Multivariate Behavioral Research._ https://doi.org/10.1080/00273171.2020.1797460
 
@@ -67,7 +67,7 @@ Brigham Young University
 
 22\. __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (2020). Helping or harming? The effect of trigger warnings on individuals with trauma histories. _Clinical Psychological Science._ https://doi.org/10.1177/2167702620921341
 
-21\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (2020). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied._ https://doi.org/10.1037/xap0000270
+21\. Bellet, B. W., __Jones, P. J.__, Meyersburg, C., Brenneman, M., Morehead, K., & McNally, R. J. (2020). Trigger warnings and resilience in college students: A preregistered replication and extension. _Journal of Experimental Psychology: Applied. 26_, 717-723. https://doi.org/10.1037/xap0000270
 
 20\. Bellet, B. W., __Jones, P. J.__, & McNally, R. J. (2020). Self-triggering? An exploration of individuals who seek reminders of trauma. _Clinical Psychological Science_. https://doi.org/10.1177/2167702620917459
 
