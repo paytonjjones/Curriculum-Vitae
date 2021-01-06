@@ -31,6 +31,7 @@ Harvard University
 
 * National Science Foundation Graduate Research Fellow
 * Richard J. McNally Laboratory
+
 <!-- * Dissertation - The Neurotic Treadmill: Decreasing Adversity, Increasing Vulnerability? -->
 
 <!-- GPA: 3.88 -->
@@ -50,6 +51,9 @@ Brigham Young University
 * Portuguese Language Certificate, Mastery Level -->
 
 # PEER-REVIEWED JOURNAL ARTICLES
+
+
+30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in press). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._
 
 29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (2020). Network trees: A method for recursively partitioning covariance structures. _Psychometrika._ https://doi.org/10.1007/s11336-020-09731-4
 
@@ -186,15 +190,13 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-7\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
+6\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
 
-6\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
+5\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
 
-5\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
+4\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
 
-4\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
-
-3\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in review). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes.
+3\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
 
 2\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
@@ -322,7 +324,7 @@ Pluralsight
 * Create model prototypes and build interactive applications to demonstrate novel solutions to problems
 * Analyze user behavior to provide data-based solutions to business and strategic problems
 
-__Data Scientist__		\hfill November, 2019 - Present | Cambridge, MA    
+__Data Scientist__		\hfill November, 2019 - December, 2020 | Cambridge, MA    
 Hyka Therapeutics
 
 * Manage data structures, collection, and strategic data analysis for a quickly-growing health startup
