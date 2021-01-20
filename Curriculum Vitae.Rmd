@@ -52,6 +52,7 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+31\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in press). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. _Journal of Traumatic Stress._
 
 30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in press). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._
 
@@ -190,13 +191,11 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-6\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
+5\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
 
-5\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
+4\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
 
-4\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience?. 
-
-3\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in review). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. 
+3\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience? 
 
 2\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
