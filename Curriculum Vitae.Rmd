@@ -30,9 +30,7 @@ __Experimental Psychopathology, PhD__ \hfill 2016-2021 | Cambridge, MA
 Harvard University  
 
 * National Science Foundation Graduate Research Fellow
-* Richard J. McNally Laboratory
-
-<!-- * Dissertation - The Neurotic Treadmill: Decreasing Adversity, Increasing Vulnerability? -->
+* Dissertation - The Neurotic Treadmill: Decreasing Adversity, Increasing Vulnerability 
 
 <!-- GPA: 3.88 -->
 
@@ -137,6 +135,8 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 _* = panel chair_
 
+21\. __Jones, P. J.__*, Williams, D. R., & McNally, R. J. (2020). Evaluating the sampling variability and replicability of network comorbidity. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Virtual Convention. 
+
 20\. __Jones, P. J.__ (2019). Trigger warnings and the neurotic treadmill: Does it matter if we expand the definition of violence? Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Atlanta, GA.
 
 19\. __Jones, P. J.__ (2019). Sticks and stones: Investigating the belief that words can harm. Presentation at the Annual Meeting of the Foundation of Individual Rights in Education, Boston, MA.
@@ -190,6 +190,8 @@ _* = panel chair_
 <!-- __Jones, P. J.__ (2015). _Career Developmental Resources in Brazilian Society (Recursos de Desenvolivmento de Carreira no Brasil)._ Symposium presentation at the Inquiry Conference, David M. Kennedy Center for International Studies, Provo, UT. -->
 
 # JOURNAL ARTICLES UNDER REVIEW
+
+6\. Goh, P., Martel, M., __Jones, P. J.__, Bansal, P., Eng, A., Elkins, A., Melina, T., & Barkley, R. (in review). Clarifying relations between ADHD and functional impairment in adulthood: Utilization of network and machine learning approaches. 
 
 5\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
 
