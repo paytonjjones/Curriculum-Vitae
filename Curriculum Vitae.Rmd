@@ -54,7 +54,7 @@ Brigham Young University
 
 30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in press). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._
 
-29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (2020). Network trees: A method for recursively partitioning covariance structures. _Psychometrika._ https://doi.org/10.1007/s11336-020-09731-4
+29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (2020). Network trees: A method for recursively partitioning covariance structures. _Psychometrika. 85_, 926-945. https://doi.org/10.1007/s11336-020-09731-4
 
 28\. Moriarity, D., Bart, C., Stumper, A., __Jones, P. J.__, & Alloy, L. (2020). Mood symptoms and impairment due to substance use: A network perspective on comorbidity. _Journal of Affective Disorders._ https://doi.org/10.1016/j.jad.2020.09.086
 
