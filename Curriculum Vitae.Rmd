@@ -50,6 +50,14 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+35\. __Jones, P. J.__. (in press). What’s in a trauma? Using machine learning to unpack what makes an event traumatic. _Journal of Affective Disorders._
+
+34\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in press). Exposure to descriptions of traumatic events narrows one’s concept of trauma. _Journal of Experimental Psychology: Applied._
+
+33\. __Jones, P. J.__ & McNally, R. J. (in press). Does broadening one's concept of trauma undermine resilience? _Psychological Trauma: Theory, Research, Practice, and Policy._ https://doi.org/10.1037/tra0001063
+
+32\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in press). Psychological response data on the traumatic nature of 600 written events. _Journal of Open Psychology Data._
+
 31\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in press). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. _Journal of Traumatic Stress._
 
 30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in press). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._
@@ -191,19 +199,13 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-6\. Goh, P., Martel, M., __Jones, P. J.__, Bansal, P., Eng, A., Elkins, A., Melina, T., & Barkley, R. (in review). Clarifying relations between ADHD and functional impairment in adulthood: Utilization of network and machine learning approaches. 
+3\. Goh, P., Martel, M., __Jones, P. J.__, Bansal, P., Eng, A., Elkins, A., Melina, T., & Barkley, R. (in review). Clarifying relations between ADHD and functional impairment in adulthood: Utilization of network and machine learning approaches. 
 
-5\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
+2\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
 
-4\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in review). Exposure to descriptions of traumatic events narrows one’s concept of trauma.
+1\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
 
-3\. __Jones, P. J.__ & McNally, R. J. (in review). Does broadening one's concept of trauma undermine resilience? 
-
-2\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
-
-1\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations.
-
-<!-- 1\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in review). Psychological response data on the traumatic nature of 600 written events. -->
+<!-- 1\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations. -->
 
 # GRANT REVIEWER FOR:
 
