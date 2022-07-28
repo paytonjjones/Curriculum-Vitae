@@ -50,17 +50,20 @@ Brigham Young University
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-35\. __Jones, P. J.__. (in press). What’s in a trauma? Using machine learning to unpack what makes an event traumatic. _Journal of Affective Disorders._
 
-34\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (in press). Exposure to descriptions of traumatic events narrows one’s concept of trauma. _Journal of Experimental Psychology: Applied._
+35\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (2022). Exposure to descriptions of traumatic events narrows one’s concept of trauma. _Journal of Experimental Psychology: Applied._ https://doi.org/10.1037/xap0000389
 
-33\. __Jones, P. J.__ & McNally, R. J. (in press). Does broadening one's concept of trauma undermine resilience? _Psychological Trauma: Theory, Research, Practice, and Policy._ https://doi.org/10.1037/tra0001063
+34\. __Jones, P. J.__ & McNally, R. J. (2022). Does broadening one's concept of trauma undermine resilience? _Psychological Trauma: Theory, Research, Practice, and Policy. 14,_ S131-S139. https://doi.org/10.1037/tra0001063
 
-32\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (in press). Psychological response data on the traumatic nature of 600 written events. _Journal of Open Psychology Data._
+33\. __Jones, P. J.__ (2021). What’s in a trauma? Using machine learning to unpack what makes an event traumatic. _Journal of Affective Disorders. 294_, 769-775. https://doi.org/10.1016/j.jad.2021.07.066
 
-31\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (in press). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. _Journal of Traumatic Stress._
+32\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (2021). Psychological response data on the traumatic nature of 600 written events. _Journal of Open Psychology Data. 9_, 3. http://doi.org/10.5334/jopd.46
 
-30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (in press). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._
+33\. Goh, P. K., Martel, M. M., __Jones, P. J.__, Bansal, P. S., Eng, A. G., Elkins, A. R., & Barkley, R. A. (2021). Clarifying relations between ADHD and functional impairment in adulthood: Utilization of network and machine learning approaches. _Assessment._ https://doi.org/10.1177/10731911211050921
+
+31\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (2021). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. _Journal of Traumatic Stress. 34_, 654-664. https://doi.org/10.1002/jts.22664
+
+30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (2021). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._ https://doi.org/10.1016/j.janxdis.2021.102359
 
 29\. __Jones, P. J.__, Mair, P., Simon, T., & Zeileis, A. (2020). Network trees: A method for recursively partitioning covariance structures. _Psychometrika. 85_, 926-945. https://doi.org/10.1007/s11336-020-09731-4
 
@@ -132,16 +135,18 @@ __Harvard University__, Karen Stone Fellowship, $64,000 \hfill 2016-2018
 
 # STATISTICAL SOFTWARE
 
-3\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2019). networktree: Recursive partitioning of network models. _R package version 0.2.2._ https://CRAN.R-project.org/package=networktree
+3\. __Jones, P. J.__, Simon, T., Zeileis, A., & Mair, P. (2019). networktree: Recursive partitioning of network models. _R package version 1.0.1._ https://CRAN.R-project.org/package=networktree
 
 2\. van Borkulo, C., Epskamp, S., & __Jones, P. J.__ (2019). NetworkComparisonTest: Statistical comparison of two networks based on three invariance measures. _R package version 2.2.1._ https://CRAN.R-project.org/package=NetworkComparisonTest
 
-1\. __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.2.0._ https://CRAN.R-project.org/package=networktools
+1\. __Jones, P. J.__ (2017). networktools: Assorted tools for identifying important nodes in networks. _R package version 1.5.0._ https://CRAN.R-project.org/package=networktools
 
 
 # ACADEMIC PRESENTATIONS
 
 _* = panel chair_
+
+22\. Bridgland, V., __Jones, P. J.__, & Bellet, B. W. (2022). Helping or harming? A trigger warning meta-analysis. Symposium at the Psychonomic Society 63rd Annual Meeting, Boston, MA. 
 
 21\. __Jones, P. J.__*, Williams, D. R., & McNally, R. J. (2020). Evaluating the sampling variability and replicability of network comorbidity. Symposium at the Association for Behavioral and Cognitive Therapies (ABCT) Convention, Virtual Convention. 
 
