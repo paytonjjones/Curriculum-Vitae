@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: /Users/payton-jones/Google Drive/99 - Other/Curriculum Vitae/svm-latex-cv.tex
+    template: svm-latex-cv.tex
 geometry: margin=1in
 
 title: "Curriculum Vitae"
@@ -48,20 +48,46 @@ Brigham Young University
 <!-- * Psi Chi Presidency
 * Portuguese Language Certificate, Mastery Level -->
 
+# PROFESSIONAL EXPERIENCE
+
+__Senior Data Scientist__		\hfill March, 2021 - Present | Seattle, WA    
+Pluralsight
+
+* Built production level deep learning systems scaled to more than 10 million users
+* Implemented ensemble learning to extend personalized recommendations to an additional 44.3% of users, corresponding with a 25.4% increase in clickthrough rate
+* Provided leadership in experiment design and data communication, jointly building key metrics with leadership
+
+__Data Scientist__		\hfill July, 2020 - March, 2021 | Boston, MA    
+Pluralsight
+<!-- * Worked with big data (>2 billion data points) -->
+
+* Develop algorithmic solutions for adaptive skill assessment, recommendation engines, and personalized learning
+* Developed scalable analytic solutions, synthesized results, and presented to product leadership
+* Created novel algorithms to evaluate the reliability and validity of skill assessments
+
+__Data Scientist__		\hfill November, 2019 - December, 2020 | Cambridge, MA    
+Hyka Therapeutics
+
+* Manage data structures, collection, and strategic data analysis for a quickly-growing health startup
+* Develop psychometric and digital phenotyping algorithms for digital therapeutics
+* Design a smartphone-based data visualization platform for users
+
 # PEER-REVIEWED JOURNAL ARTICLES
 
 
-35\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (2022). Exposure to descriptions of traumatic events narrows one’s concept of trauma. _Journal of Experimental Psychology: Applied._ https://doi.org/10.1037/xap0000389
+37\. __Jones, P. J.__, Levari, D. E., Bellet, B. W., & McNally, R. J. (2022). Exposure to descriptions of traumatic events narrows one’s concept of trauma. _Journal of Experimental Psychology: Applied._ https://doi.org/10.1037/xap0000389
 
-34\. __Jones, P. J.__ & McNally, R. J. (2022). Does broadening one's concept of trauma undermine resilience? _Psychological Trauma: Theory, Research, Practice, and Policy. 14,_ S131-S139. https://doi.org/10.1037/tra0001063
+36\. __Jones, P. J.__ & McNally, R. J. (2022). Does broadening one's concept of trauma undermine resilience? _Psychological Trauma: Theory, Research, Practice, and Policy. 14,_ S131-S139. https://doi.org/10.1037/tra0001063
 
-33\. __Jones, P. J.__ (2021). What’s in a trauma? Using machine learning to unpack what makes an event traumatic. _Journal of Affective Disorders. 294_, 769-775. https://doi.org/10.1016/j.jad.2021.07.066
+35\. __Jones, P. J.__ (2021). What’s in a trauma? Using machine learning to unpack what makes an event traumatic. _Journal of Affective Disorders. 294_, 769-775. https://doi.org/10.1016/j.jad.2021.07.066
 
-32\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (2021). Psychological response data on the traumatic nature of 600 written events. _Journal of Open Psychology Data. 9_, 3. http://doi.org/10.5334/jopd.46
+34\. __Jones, P. J.__, Bellet, B. W., Levari, D. E., & McNally, R. J. (2021). Psychological response data on the traumatic nature of 600 written events. _Journal of Open Psychology Data. 9_, 3. http://doi.org/10.5334/jopd.46
 
 33\. Goh, P. K., Martel, M. M., __Jones, P. J.__, Bansal, P. S., Eng, A. G., Elkins, A. R., & Barkley, R. A. (2021). Clarifying relations between ADHD and functional impairment in adulthood: Utilization of network and machine learning approaches. _Assessment._ https://doi.org/10.1177/10731911211050921
 
-31\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (2021). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. _Journal of Traumatic Stress. 34_, 654-664. https://doi.org/10.1002/jts.22664
+32\. Guineau, M. G., __Jones, P. J.__, Bellet, B. W., & McNally, R. J. (2021). A network analysis of DSM-5 posttraumatic stress disorder symptoms and trauma centrality. _Journal of Traumatic Stress. 34_, 654-664. https://doi.org/10.1002/jts.22664
+
+31\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (2021). Which symptoms of depression and anxiety are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents. _Journal of Affective Disorders. 295_, 811-821. https://doi.org/10.1016/j.jad.2021.08.087
 
 30\. Peters, J., Bellet, B. W., __Jones, P. J.__, Wu, G. W. Y., Wang, L., & McNally, R. J. (2021). Posttraumatic stress or posttraumatic growth? Using network analysis to explore the relationships between coping styles and trauma outcomes. _Journal of Anxiety Disorders._ https://doi.org/10.1016/j.janxdis.2021.102359
 
@@ -204,13 +230,9 @@ _* = panel chair_
 
 # JOURNAL ARTICLES UNDER REVIEW
 
-3\. Goh, P., Martel, M., __Jones, P. J.__, Bansal, P., Eng, A., Elkins, A., Melina, T., & Barkley, R. (in review). Clarifying relations between ADHD and functional impairment in adulthood: Utilization of network and machine learning approaches. 
+2\. __Jones, P. J.__, Bridgland, V., & Bellet, B. W. (2023). Content warnings reduce aesthetic appreciation of visual art. https://psyarxiv.com/6h5k8/
 
-2\. Wasil, A., Gillespie, S., Park, S. J., Venturo-Conerly, K. E., Osborn, T. L., DeRubeis, R., Weisz, J. R., & __Jones, P. J.__ (in review). Which internalizing symptoms are most strongly associated with happiness? A network analysis of Indian and Kenyan adolescents.
-
-1\. Venturo-Conerly, K. E., Wasil, A., Osborn, T. L., Weisz, J. R., & __Jones, P. J.__ (in review). Depression and anxiety symptoms and social support among Kenyan adolescents: A network analysis.
-
-<!-- 1\. Vanzhula, I. A., Christian, C. __Jones, P. J.__, Brosof, L. C., Forbush, K., Smith, K., Tregarthen, J., Farrell, N. A., & Levinson, C. A. (in review). Replicability of eating disorder psychological networks in five samples: Conceptual and methodological considerations. -->
+1\. Bridgland, V., __Jones, P. J.__, & Bellet, B. W. (2023). A meta-analysis of the effects of trigger warnings, content warnings, and content notes. https://osf.io/qav9m/
 
 # GRANT REVIEWER FOR:
 
@@ -321,23 +343,6 @@ Brigham Young University Freshman Mentoring
 
 * Gave personal counseling and assistance to 51 new university students in a peer mentor role
 * Provided leadership in student orientation and other large group activities
-
-# DATA SCIENCE EXPERIENCE
-
-__Data Scientist__		\hfill May, 2020 - Present | Boston, MA    
-Pluralsight
-<!-- * Worked with big data (>2 billion data points) -->
-
-* Develop algorithmic solutions for adaptive skill assessment, recommendation engines, and personalized learning
-* Create model prototypes and build interactive applications to demonstrate novel solutions to problems
-* Analyze user behavior to provide data-based solutions to business and strategic problems
-
-__Data Scientist__		\hfill November, 2019 - December, 2020 | Cambridge, MA    
-Hyka Therapeutics
-
-* Manage data structures, collection, and strategic data analysis for a quickly-growing health startup
-* Develop psychometric and digital phenotyping algorithms for digital therapeutics
-* Design a smartphone-based data visualization platform for users
 
 # RESEARCH EXPERIENCE
 
